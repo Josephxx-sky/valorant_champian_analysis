@@ -1,0 +1,861 @@
+﻿match_map_number,map_name,team,player_name,agent,Rating 2.0,Average Combat Score,Kills,Deaths,Assists,Kills - Deaths,"Kill, Assist, Trade, Survive %",Average Damage per Round,Headshot %,First Kills,First Deaths,match_id,year
+1,Haven,Gen.G,t3xture,Jett,1.6,305,24,12,4,-1,81,188,31,3,4,378662,2024
+1,Haven,Gen.G,Meteor,Killjoy,1.23,221,17,10,4,-3,76,140,26,1,4,378662,2024
+1,Haven,Gen.G,Lakia,Skye,1.06,185,15,12,4,1,86,134,26,2,1,378662,2024
+1,Haven,Gen.G,Karon,Omen,1.02,188,14,12,12,0,86,119,42,1,1,378662,2024
+1,Haven,Gen.G,Munchkin,Viper,0.7,145,9,15,7,2,76,96,24,3,1,378662,2024
+1,Haven,Sentinels,Sacy,Sova,1.28,245,19,15,5,1,76,157,52,2,1,378662,2024
+1,Haven,Sentinels,TenZ,Omen,1.15,226,15,15,11,-1,81,146,16,3,4,378662,2024
+1,Haven,Sentinels,Zellsis,Breach,0.99,152,11,14,12,2,71,95,38,3,1,378662,2024
+1,Haven,Sentinels,johnqt,Cypher,0.67,132,9,16,3,2,57,93,50,2,0,378662,2024
+1,Haven,Sentinels,zekken,Jett,0.34,115,7,19,4,-3,48,76,22,1,4,378662,2024
+2,Ascent,Gen.G,Karon,Omen,1.56,261,20,11,11,-1,90,158,27,1,2,378662,2024
+2,Ascent,Gen.G,Munchkin,Kayo,1.3,262,18,13,14,1,90,168,22,2,1,378662,2024
+2,Ascent,Gen.G,Meteor,Killjoy,1.28,233,18,10,2,0,85,172,34,2,2,378662,2024
+2,Ascent,Gen.G,t3xture,Jett,1.15,208,14,11,4,2,85,129,28,4,2,378662,2024
+2,Ascent,Gen.G,Lakia,Sova,0.43,96,6,13,2,0,60,64,17,2,2,378662,2024
+2,Ascent,Sentinels,Sacy,Sova,1.43,250,15,12,12,2,80,169,12,2,0,378662,2024
+2,Ascent,Sentinels,johnqt,Deadlock,0.82,125,10,14,4,0,65,76,16,0,0,378662,2024
+2,Ascent,Sentinels,Zellsis,Cypher,0.69,131,10,16,3,0,55,83,18,3,3,378662,2024
+2,Ascent,Sentinels,zekken,Jett,0.66,176,12,17,3,-3,60,117,7,2,5,378662,2024
+2,Ascent,Sentinels,TenZ,Omen,0.57,138,10,17,3,-1,65,89,43,2,3,378662,2024
+1,Abyss,FunPlus Phoenix,AAAAY,Fade,1.36,291,27,18,2,2,73,197,40,5,3,378663,2024
+1,Abyss,FunPlus Phoenix,Autumn,Viper,1.05,214,19,18,9,-1,77,151,26,0,1,378663,2024
+1,Abyss,FunPlus Phoenix,BerLIN,Omen,0.94,154,15,15,6,0,69,107,20,2,2,378663,2024
+1,Abyss,FunPlus Phoenix,Lysoar,Cypher,0.92,200,17,20,11,0,65,131,12,2,2,378663,2024
+1,Abyss,FunPlus Phoenix,Life,Yoru,0.53,139,12,20,3,-1,62,96,29,4,5,378663,2024
+1,Abyss,Team Heretics,RieNs,Sova,1.78,302,28,12,7,3,69,202,32,3,0,378663,2024
+1,Abyss,Team Heretics,Wo0t,Gekko,1.27,268,25,18,8,2,88,161,30,4,2,378663,2024
+1,Abyss,Team Heretics,benjyfishy,Cypher,0.74,147,13,19,6,-2,69,108,29,3,5,378663,2024
+1,Abyss,Team Heretics,Boo,Astra,0.67,157,16,21,7,-1,69,99,30,0,1,378663,2024
+1,Abyss,Team Heretics,MiniBoo,Jett,0.45,94,9,20,2,-2,58,74,22,3,5,378663,2024
+2,Bind,FunPlus Phoenix,Autumn,Chamber,1.31,209,17,11,5,2,73,144,32,6,4,378663,2024
+2,Bind,FunPlus Phoenix,Lysoar,Viper,1.19,234,17,15,12,2,82,165,21,2,0,378663,2024
+2,Bind,FunPlus Phoenix,Life,Yoru,1.03,248,18,16,5,1,73,157,28,3,2,378663,2024
+2,Bind,FunPlus Phoenix,AAAAY,Fade,0.85,184,16,16,5,1,59,104,25,1,0,378663,2024
+2,Bind,FunPlus Phoenix,BerLIN,Omen,0.78,122,10,14,10,-2,82,74,30,1,3,378663,2024
+2,Bind,Team Heretics,benjyfishy,Viper,1.48,287,23,16,11,-1,73,223,42,1,2,378663,2024
+2,Bind,Team Heretics,RieNs,Gekko,1.22,232,19,15,3,1,64,153,38,3,2,378663,2024
+2,Bind,Team Heretics,Boo,Brimstone,0.88,136,10,14,11,-2,64,88,45,1,3,378663,2024
+2,Bind,Team Heretics,Wo0t,Fade,0.83,148,10,15,10,-1,77,93,39,1,2,378663,2024
+2,Bind,Team Heretics,MiniBoo,Raze,0.51,127,10,18,3,-1,45,89,42,3,4,378663,2024
+3,Lotus,FunPlus Phoenix,Autumn,Viper,1.05,193,18,17,12,2,75,120,34,3,1,378663,2024
+3,Lotus,FunPlus Phoenix,BerLIN,Astra,1.03,212,20,20,11,4,68,143,30,5,1,378663,2024
+3,Lotus,FunPlus Phoenix,AAAAY,Gekko,0.97,192,22,18,4,1,71,122,37,2,1,378663,2024
+3,Lotus,FunPlus Phoenix,Lysoar,Omen,0.96,218,21,21,6,0,82,145,23,1,1,378663,2024
+3,Lotus,FunPlus Phoenix,Life,Raze,0.69,167,17,21,4,-3,57,120,33,5,8,378663,2024
+3,Lotus,Team Heretics,RieNs,Viper,1.42,245,24,17,9,2,75,163,39,2,0,378663,2024
+3,Lotus,Team Heretics,MiniBoo,Raze,1.08,245,21,22,9,0,64,157,30,7,7,378663,2024
+3,Lotus,Team Heretics,Boo,Fade,0.98,222,21,21,11,1,79,129,22,1,0,378663,2024
+3,Lotus,Team Heretics,Wo0t,Omen,0.91,140,15,19,14,-2,75,101,37,1,3,378663,2024
+3,Lotus,Team Heretics,benjyfishy,Killjoy,0.85,153,16,19,3,-5,64,102,34,1,6,378663,2024
+1,Haven,DRX,MaKo,Omen,0.85,160,8,13,4,-2,53,106,16,0,2,378657,2024
+1,Haven,DRX,Flashback,Cypher,0.69,171,9,13,0,1,60,101,21,1,0,378657,2024
+1,Haven,DRX,Foxy9,Breach,0.56,149,7,14,5,-3,53,98,33,0,3,378657,2024
+1,Haven,DRX,BuZz,Jett,0.45,181,7,15,3,-3,47,122,7,1,4,378657,2024
+1,Haven,DRX,BeYN,Sova,0.31,85,5,14,3,-4,47,60,50,0,4,378657,2024
+1,Haven,KRÜ Esports,Melser,Omen,2.45,394,22,4,7,4,87,247,29,5,1,378657,2024
+1,Haven,KRÜ Esports,keznit,Neon,1.69,365,18,9,10,5,87,232,32,5,0,378657,2024
+1,Haven,KRÜ Esports,Shyy,Cypher,1.34,227,13,9,10,2,80,143,24,3,1,378657,2024
+1,Haven,KRÜ Esports,heat,Breach,1.18,170,10,7,9,0,93,127,18,0,0,378657,2024
+1,Haven,KRÜ Esports,mta,Sova,0.66,79,6,7,1,0,80,50,36,0,0,378657,2024
+2,Abyss,DRX,Flashback,Cypher,1.52,341,27,13,6,3,100,221,32,4,1,378657,2024
+2,Abyss,DRX,BuZz,Jett,1.09,228,13,12,7,2,74,152,9,4,2,378657,2024
+2,Abyss,DRX,BeYN,Sova,1.05,206,15,13,2,1,58,126,26,2,1,378657,2024
+2,Abyss,DRX,MaKo,Omen,1.05,190,12,11,8,2,79,124,26,3,1,378657,2024
+2,Abyss,DRX,Foxy9,Kayo,0.94,172,10,11,10,-1,68,121,24,0,1,378657,2024
+2,Abyss,KRÜ Esports,mta,Kayo,1.4,285,19,16,9,-1,79,209,33,2,3,378657,2024
+2,Abyss,KRÜ Esports,keznit,Omen,1.01,242,16,15,3,-1,58,167,24,2,3,378657,2024
+2,Abyss,KRÜ Esports,heat,Sova,0.82,174,12,15,4,0,68,121,35,1,1,378657,2024
+2,Abyss,KRÜ Esports,Shyy,Cypher,0.69,119,7,15,4,-3,53,86,20,1,4,378657,2024
+2,Abyss,KRÜ Esports,Melser,Harbor,0.55,109,6,16,6,-2,58,77,25,0,2,378657,2024
+3,Bind,DRX,BuZz,Raze,1.45,331,23,14,2,1,79,205,29,4,3,378657,2024
+3,Bind,DRX,Foxy9,Gekko,1.29,249,19,12,5,-1,74,161,41,2,3,378657,2024
+3,Bind,DRX,Flashback,Viper,1.27,201,15,8,3,0,84,129,16,1,1,378657,2024
+3,Bind,DRX,BeYN,Fade,1.26,217,15,9,5,2,89,145,24,2,0,378657,2024
+3,Bind,DRX,MaKo,Brimstone,0.69,111,5,11,9,-1,74,82,24,1,2,378657,2024
+3,Bind,KRÜ Esports,keznit,Raze,1.01,225,14,16,3,2,53,140,24,4,2,378657,2024
+3,Bind,KRÜ Esports,Shyy,Viper,0.9,191,12,14,4,1,53,124,29,4,3,378657,2024
+3,Bind,KRÜ Esports,Melser,Brimstone,0.9,137,8,13,6,-2,68,100,23,0,2,378657,2024
+3,Bind,KRÜ Esports,heat,Fade,0.83,174,14,17,3,0,63,102,30,1,1,378657,2024
+3,Bind,KRÜ Esports,mta,Gekko,0.33,122,6,17,7,-2,68,84,13,0,2,378657,2024
+1,Bind,FNATIC,Chronicle,Viper,1.39,251,19,14,8,2,73,174,35,4,2,378656,2024
+1,Bind,FNATIC,Derke,Raze,1.25,232,19,14,4,-1,59,152,19,1,2,378656,2024
+1,Bind,FNATIC,Boaster,Astra,0.95,151,10,13,10,1,77,107,23,2,1,378656,2024
+1,Bind,FNATIC,Alfajer,Gekko,0.92,196,15,16,4,-3,59,133,31,1,4,378656,2024
+1,Bind,FNATIC,hiro,Fade,0.85,133,10,13,5,-3,64,95,39,1,4,378656,2024
+1,Bind,Bilibili Gaming,whzy,Raze,1.3,305,23,16,1,2,82,191,26,4,2,378656,2024
+1,Bind,Bilibili Gaming,nephh,Skye,1.05,190,13,14,12,2,68,125,20,3,1,378656,2024
+1,Bind,Bilibili Gaming,Knight,Cypher,0.9,166,14,14,5,0,59,109,26,1,1,378656,2024
+1,Bind,Bilibili Gaming,Flex1n,Brimstone,0.81,169,12,16,7,3,64,114,41,3,0,378656,2024
+1,Bind,Bilibili Gaming,yosemite,Viper,0.65,120,8,14,8,-3,55,90,20,2,5,378656,2024
+2,Lotus,FNATIC,hiro,Fade,1.93,303,19,7,10,1,94,195,42,1,0,378656,2024
+2,Lotus,FNATIC,Boaster,Omen,1.36,181,13,6,8,-1,94,115,42,1,2,378656,2024
+2,Lotus,FNATIC,Chronicle,Viper,1.27,236,16,9,2,4,76,141,20,4,0,378656,2024
+2,Lotus,FNATIC,Derke,Raze,1.13,222,14,10,4,3,76,144,10,5,2,378656,2024
+2,Lotus,FNATIC,Alfajer,Killjoy,0.74,185,11,13,5,2,82,133,33,2,0,378656,2024
+2,Lotus,Bilibili Gaming,nephh,Fade,0.88,208,13,15,1,-2,53,119,24,0,2,378656,2024
+2,Lotus,Bilibili Gaming,whzy,Neon,0.76,213,12,15,4,-4,65,124,14,2,6,378656,2024
+2,Lotus,Bilibili Gaming,Knight,Breach,0.73,140,8,15,8,-1,71,95,32,1,2,378656,2024
+2,Lotus,Bilibili Gaming,yosemite,Cypher,0.63,115,6,14,3,0,59,75,33,1,1,378656,2024
+2,Lotus,Bilibili Gaming,Flex1n,Omen,0.49,108,6,14,6,-2,71,71,24,0,2,378656,2024
+1,Bind,LEVIATÁN,kiNgg,Brimstone,1.56,264,25,15,7,1,67,163,25,3,2,378667,2024
+1,Bind,LEVIATÁN,aspas,Raze,1.25,272,21,19,7,3,63,183,33,6,3,378667,2024
+1,Bind,LEVIATÁN,C0M,Viper,0.93,159,12,14,8,-3,63,103,34,1,4,378667,2024
+1,Bind,LEVIATÁN,Mazino,Skye,0.63,117,9,17,9,0,79,88,30,0,0,378667,2024
+1,Bind,LEVIATÁN,tex,Gekko,0.47,112,9,19,5,-3,58,80,24,1,4,378667,2024
+1,Bind,TALON,ban,Skye,1.32,190,18,12,10,0,79,122,38,0,0,378667,2024
+1,Bind,TALON,primmie,Yoru,1.15,222,18,14,10,0,79,138,35,2,2,378667,2024
+1,Bind,TALON,Governor,Neon,1.11,250,20,17,6,1,71,157,22,5,4,378667,2024
+1,Bind,TALON,JitBoyS,Viper,1.05,220,18,17,2,5,75,143,47,6,1,378667,2024
+1,Bind,TALON,Crws,Omen,0.59,125,10,16,7,-4,63,94,15,0,4,378667,2024
+2,Ascent,LEVIATÁN,aspas,Jett,1.44,215,16,10,3,5,90,141,22,5,0,378667,2024
+2,Ascent,LEVIATÁN,tex,Cypher,1.3,239,19,13,6,0,62,160,39,2,2,378667,2024
+2,Ascent,LEVIATÁN,kiNgg,Omen,1.24,196,16,9,8,1,90,121,39,2,1,378667,2024
+2,Ascent,LEVIATÁN,C0M,Sova,1.12,251,13,14,7,1,81,188,8,3,2,378667,2024
+2,Ascent,LEVIATÁN,Mazino,Deadlock,1.03,186,15,14,2,0,76,123,31,2,2,378667,2024
+2,Ascent,TALON,primmie,Sage,1.44,277,22,13,5,0,76,161,43,1,1,378667,2024
+2,Ascent,TALON,ban,Phoenix,0.71,130,10,14,2,0,62,78,35,3,3,378667,2024
+2,Ascent,TALON,JitBoyS,Clove,0.61,165,10,18,6,-3,67,104,28,2,5,378667,2024
+2,Ascent,TALON,Governor,Sova,0.58,138,8,16,7,-1,57,91,13,0,1,378667,2024
+2,Ascent,TALON,Crws,Kayo,0.41,134,10,18,3,-3,57,91,9,1,4,378667,2024
+1,Ascent,Team Vitality,trexx,Sova,1.52,271,26,17,10,1,64,182,28,3,2,378669,2024
+1,Ascent,Team Vitality,runneR,Killjoy,0.93,233,21,24,2,0,64,157,25,4,4,378669,2024
+1,Ascent,Team Vitality,ceNder,Omen,0.9,152,15,20,10,-5,57,107,32,1,6,378669,2024
+1,Ascent,Team Vitality,Sayf,Jett,0.87,153,16,20,5,-2,64,106,31,3,5,378669,2024
+1,Ascent,Team Vitality,Kicks,Kayo,0.71,103,8,20,15,0,50,79,16,0,0,378669,2024
+1,Ascent,Trace Esports,LuoK1ng,Omen,1.35,265,27,17,9,1,75,171,43,3,2,378669,2024
+1,Ascent,Trace Esports,Kai,Jett,1.21,241,25,18,2,1,68,165,26,5,4,378669,2024
+1,Ascent,Trace Esports,Biank,Sova,0.9,192,18,17,9,2,64,125,15,3,1,378669,2024
+1,Ascent,Trace Esports,FengF,Killjoy,0.86,170,19,17,3,0,61,122,35,4,4,378669,2024
+1,Ascent,Trace Esports,heybay,Kayo,0.69,120,12,17,8,2,75,77,28,2,0,378669,2024
+2,Sunset,Team Vitality,trexx,Sova,1.97,312,24,8,9,1,85,218,33,1,0,378669,2024
+2,Sunset,Team Vitality,ceNder,Omen,1.16,165,14,12,6,2,75,106,26,3,1,378669,2024
+2,Sunset,Team Vitality,Sayf,Neon,1.09,202,13,13,10,0,80,148,31,2,2,378669,2024
+2,Sunset,Team Vitality,runneR,Cypher,1.09,211,15,13,5,3,65,135,22,5,2,378669,2024
+2,Sunset,Team Vitality,Kicks,Kayo,1.09,160,8,11,19,0,80,107,16,2,2,378669,2024
+2,Sunset,Trace Esports,LuoK1ng,Omen,1.04,234,16,15,4,1,80,154,25,2,1,378669,2024
+2,Sunset,Trace Esports,Kai,Cypher,0.82,177,13,14,4,-1,60,119,39,1,2,378669,2024
+2,Sunset,Trace Esports,FengF,Raze,0.73,176,12,15,1,-2,55,109,16,2,4,378669,2024
+2,Sunset,Trace Esports,Biank,Sova,0.69,152,10,15,5,-3,50,106,19,2,5,378669,2024
+2,Sunset,Trace Esports,heybay,Breach,0.55,102,5,15,9,-1,75,72,22,0,1,378669,2024
+3,Bind,Team Vitality,trexx,Fade,0.81,172,11,14,3,3,65,115,18,4,1,378669,2024
+3,Bind,Team Vitality,Sayf,Raze,0.75,210,13,17,4,-2,65,151,28,2,4,378669,2024
+3,Bind,Team Vitality,Kicks,Gekko,0.72,174,13,16,2,-4,70,107,11,0,4,378669,2024
+3,Bind,Team Vitality,runneR,Viper,0.7,164,9,16,11,-2,65,117,14,1,3,378669,2024
+3,Bind,Team Vitality,ceNder,Omen,0.63,129,12,16,3,-1,60,79,33,0,1,378669,2024
+3,Bind,Trace Esports,heybay,Deadlock,1.59,256,20,12,11,1,95,168,26,2,1,378669,2024
+3,Bind,Trace Esports,LuoK1ng,Brimstone,1.32,260,21,12,6,1,85,158,39,1,0,378669,2024
+3,Bind,Trace Esports,FengF,Raze,1.15,204,15,10,0,4,80,128,31,5,1,378669,2024
+3,Bind,Trace Esports,Kai,Cypher,1.13,191,13,12,6,1,75,131,33,3,2,378669,2024
+3,Bind,Trace Esports,Biank,Skye,0.94,162,10,13,10,-1,80,111,18,2,3,378669,2024
+1,Icebox,G2 Esports,leaf,Killjoy,1.41,288,21,14,6,-1,81,202,21,1,2,378674,2024
+1,Icebox,G2 Esports,valyn,Harbor,1.24,229,17,13,8,-1,71,148,16,1,2,378674,2024
+1,Icebox,G2 Esports,JonahP,Viper,1.05,184,13,15,9,3,71,131,21,3,0,378674,2024
+1,Icebox,G2 Esports,icy,Gekko,1.04,209,17,15,8,3,76,118,32,4,1,378674,2024
+1,Icebox,G2 Esports,trent,Sova,1.01,190,14,14,7,3,71,126,23,5,2,378674,2024
+1,Icebox,Paper Rex,Jinggg,Sage,1.18,216,16,14,9,-2,76,142,29,1,3,378674,2024
+1,Icebox,Paper Rex,mindfreak,Viper,1.14,258,20,15,8,-1,76,143,33,2,3,378674,2024
+1,Icebox,Paper Rex,f0rsakeN,Sova,0.85,182,14,17,5,-2,62,123,38,0,2,378674,2024
+1,Icebox,Paper Rex,something,Jett,0.67,203,14,18,3,0,57,126,19,4,4,378674,2024
+1,Icebox,Paper Rex,d4v41,Killjoy,0.44,115,7,18,4,-2,62,88,28,0,2,378674,2024
+2,Lotus,G2 Esports,trent,Fade,1.36,271,20,15,10,1,68,170,26,2,1,378674,2024
+2,Lotus,G2 Esports,icy,Raze,1.19,218,18,14,1,3,73,148,33,3,0,378674,2024
+2,Lotus,G2 Esports,JonahP,Viper,1.17,263,21,16,2,-2,68,166,33,3,5,378674,2024
+2,Lotus,G2 Esports,leaf,Killjoy,1.17,194,16,13,4,4,82,134,19,4,0,378674,2024
+2,Lotus,G2 Esports,valyn,Omen,0.84,174,13,15,16,0,82,97,15,2,2,378674,2024
+2,Lotus,Paper Rex,f0rsakeN,Kayo,1.32,239,19,17,14,-1,77,146,36,1,2,378674,2024
+2,Lotus,Paper Rex,something,Jett,0.95,189,15,15,3,1,59,138,26,2,1,378674,2024
+2,Lotus,Paper Rex,mindfreak,Omen,0.91,192,14,17,9,-1,77,116,29,0,1,378674,2024
+2,Lotus,Paper Rex,d4v41,Fade,0.91,225,16,18,6,0,77,145,25,2,2,378674,2024
+2,Lotus,Paper Rex,Jinggg,Neon,0.41,150,9,21,8,-5,59,109,11,3,8,378674,2024
+1,Lotus,EDward Gaming,CHICHOO,Omen,1.32,231,16,12,14,1,91,152,33,2,1,378673,2024
+1,Lotus,EDward Gaming,Smoggy,Clove,1.31,283,23,15,7,-3,77,180,24,1,4,378673,2024
+1,Lotus,EDward Gaming,nobody,Fade,1.15,213,18,15,6,1,77,137,27,3,2,378673,2024
+1,Lotus,EDward Gaming,ZmjjKK,Neon,0.67,195,14,19,8,1,68,119,19,5,4,378673,2024
+1,Lotus,EDward Gaming,S1Mon,Breach,0.63,128,9,16,12,0,77,91,19,0,0,378673,2024
+1,Lotus,FUT Esports,yetujey,Cypher,1.14,235,19,15,6,1,82,141,27,3,2,378673,2024
+1,Lotus,FUT Esports,qRaxs,Breach,1.13,189,15,14,7,-1,73,129,30,0,1,378673,2024
+1,Lotus,FUT Esports,MrFaliN,Omen,0.98,216,16,17,8,-1,77,123,24,1,2,378673,2024
+1,Lotus,FUT Esports,AtaKaptan,Viper,0.97,187,13,17,8,0,73,119,18,0,0,378673,2024
+1,Lotus,FUT Esports,cNed,Jett,0.85,193,14,17,3,1,68,131,32,7,6,378673,2024
+2,Bind,EDward Gaming,Smoggy,Brimstone,1.71,274,23,10,6,0,91,173,38,1,1,378673,2024
+2,Bind,EDward Gaming,CHICHOO,Viper,1.33,255,19,16,9,1,78,178,25,4,3,378673,2024
+2,Bind,EDward Gaming,ZmjjKK,Raze,1.27,218,19,13,5,-3,70,141,21,2,5,378673,2024
+2,Bind,EDward Gaming,S1Mon,Fade,0.91,131,11,14,7,0,70,78,29,1,1,378673,2024
+2,Bind,EDward Gaming,nobody,Gekko,0.49,90,7,17,6,-5,65,62,14,0,5,378673,2024
+2,Bind,FUT Esports,qRaxs,Fade,1.11,158,13,11,8,2,78,92,22,2,0,378673,2024
+2,Bind,FUT Esports,cNed,Raze,1.0,228,19,18,2,2,74,159,29,5,3,378673,2024
+2,Bind,FUT Esports,yetujey,Viper,0.8,209,17,17,6,2,65,129,27,4,2,378673,2024
+2,Bind,FUT Esports,MrFaliN,Gekko,0.68,139,9,16,9,1,70,100,20,2,1,378673,2024
+2,Bind,FUT Esports,AtaKaptan,Brimstone,0.63,150,12,17,8,0,65,96,20,2,2,378673,2024
+1,Abyss,Gen.G,Meteor,Yoru,1.46,327,28,17,5,1,71,206,37,5,4,378664,2024
+1,Abyss,Gen.G,Karon,Astra,1.18,171,16,13,12,2,67,122,48,2,0,378664,2024
+1,Abyss,Gen.G,t3xture,Jett,1.05,244,21,19,2,2,58,167,31,4,2,378664,2024
+1,Abyss,Gen.G,Munchkin,Viper,0.83,143,10,18,15,0,75,114,26,2,2,378664,2024
+1,Abyss,Gen.G,Lakia,Sova,0.73,128,10,17,6,-1,63,77,14,1,2,378664,2024
+1,Abyss,Team Heretics,Boo,Astra,1.46,245,22,15,15,-1,79,144,36,2,3,378664,2024
+1,Abyss,Team Heretics,Wo0t,Gekko,1.11,201,17,16,4,1,63,145,44,1,0,378664,2024
+1,Abyss,Team Heretics,benjyfishy,Cypher,0.83,206,19,19,5,0,71,133,45,3,3,378664,2024
+1,Abyss,Team Heretics,RieNs,Sova,0.75,125,10,16,6,-1,67,96,39,1,2,378664,2024
+1,Abyss,Team Heretics,MiniBoo,Jett,0.71,193,16,19,3,-3,58,129,37,3,6,378664,2024
+2,Lotus,Gen.G,Meteor,Killjoy,1.4,268,25,17,5,2,71,186,47,3,1,378664,2024
+2,Lotus,Gen.G,t3xture,Raze,1.12,249,20,19,6,7,67,162,18,8,1,378664,2024
+2,Lotus,Gen.G,Lakia,Fade,0.98,190,16,18,16,-2,79,124,24,0,2,378664,2024
+2,Lotus,Gen.G,Munchkin,Viper,0.78,161,11,17,15,-1,83,103,41,2,3,378664,2024
+2,Lotus,Gen.G,Karon,Omen,0.53,135,12,20,8,0,67,80,38,2,2,378664,2024
+2,Lotus,Team Heretics,RieNs,Viper,1.18,195,18,15,4,-1,92,130,36,2,3,378664,2024
+2,Lotus,Team Heretics,Wo0t,Omen,1.09,228,20,17,7,-3,79,140,41,1,4,378664,2024
+2,Lotus,Team Heretics,Boo,Fade,1.05,250,20,19,11,2,92,157,20,3,1,378664,2024
+2,Lotus,Team Heretics,benjyfishy,Killjoy,1.02,171,17,16,2,-1,75,121,33,1,2,378664,2024
+2,Lotus,Team Heretics,MiniBoo,Raze,0.87,188,16,17,8,-3,79,128,24,2,5,378664,2024
+3,Bind,Gen.G,Karon,Brimstone,1.49,258,23,14,9,1,70,150,25,3,2,378664,2024
+3,Bind,Gen.G,Meteor,Cypher,1.47,263,23,14,5,2,78,159,47,3,1,378664,2024
+3,Bind,Gen.G,Munchkin,Viper,0.92,183,12,14,7,2,70,126,20,3,1,378664,2024
+3,Bind,Gen.G,t3xture,Raze,0.55,141,8,18,5,-4,57,116,20,1,5,378664,2024
+3,Bind,Gen.G,Lakia,Skye,0.27,63,4,18,7,-2,52,40,33,1,3,378664,2024
+3,Bind,Team Heretics,benjyfishy,Viper,1.26,237,20,15,10,-1,78,149,40,1,2,378664,2024
+3,Bind,Team Heretics,RieNs,Gekko,1.26,230,19,14,5,0,74,136,28,1,1,378664,2024
+3,Bind,Team Heretics,Boo,Astra,1.05,169,13,12,10,0,78,103,41,3,3,378664,2024
+3,Bind,Team Heretics,Wo0t,Skye,0.97,159,13,14,9,0,74,105,28,2,2,378664,2024
+3,Bind,Team Heretics,MiniBoo,Yoru,0.8,162,13,15,3,2,74,106,38,5,3,378664,2024
+1,Abyss,FNATIC,Alfajer,Killjoy,1.67,311,25,16,7,3,83,210,23,5,2,378658,2024
+1,Abyss,FNATIC,hiro,Viper,0.92,191,18,18,3,-2,79,121,20,1,3,378658,2024
+1,Abyss,FNATIC,Chronicle,Sova,0.86,144,12,15,6,-1,67,107,26,2,3,378658,2024
+1,Abyss,FNATIC,Derke,Yoru,0.68,146,12,18,4,-2,54,94,27,1,3,378658,2024
+1,Abyss,FNATIC,Boaster,Astra,0.49,90,7,16,4,0,58,55,35,2,2,378658,2024
+1,Abyss,DRX,BuZz,Jett,1.41,270,24,13,1,3,71,165,20,6,3,378658,2024
+1,Abyss,DRX,MaKo,Omen,1.07,201,18,14,6,1,75,134,31,2,1,378658,2024
+1,Abyss,DRX,Flashback,Cypher,0.84,148,13,13,9,0,79,95,39,2,2,378658,2024
+1,Abyss,DRX,Foxy9,Kayo,0.81,154,12,16,13,0,71,110,24,1,1,378658,2024
+1,Abyss,DRX,BeYN,Sova,0.72,183,15,18,8,-2,79,123,18,2,4,378658,2024
+2,Lotus,FNATIC,Alfajer,Killjoy,1.51,271,20,12,2,0,74,172,42,1,1,378658,2024
+2,Lotus,FNATIC,Derke,Raze,1.08,247,16,14,3,0,63,145,25,4,4,378658,2024
+2,Lotus,FNATIC,Boaster,Omen,0.87,139,9,13,7,-3,74,88,14,0,3,378658,2024
+2,Lotus,FNATIC,hiro,Fade,0.63,101,6,14,9,0,74,72,33,1,1,378658,2024
+2,Lotus,FNATIC,Chronicle,Viper,0.59,150,8,16,4,-2,58,101,13,1,3,378658,2024
+2,Lotus,DRX,BuZz,Raze,1.43,325,23,13,1,6,79,196,24,8,2,378658,2024
+2,Lotus,DRX,MaKo,Omen,1.32,246,16,11,5,1,89,161,30,1,0,378658,2024
+2,Lotus,DRX,BeYN,Fade,0.85,138,10,10,4,-1,74,98,25,0,1,378658,2024
+2,Lotus,DRX,Flashback,Viper,0.77,128,9,10,3,0,63,79,15,0,0,378658,2024
+2,Lotus,DRX,Foxy9,Chamber,0.59,137,11,15,1,-1,58,113,57,3,4,378658,2024
+1,Bind,LEVIATÁN,tex,Gekko,1.23,249,22,14,2,2,78,162,42,3,1,378670,2024
+1,Bind,LEVIATÁN,aspas,Raze,1.08,235,18,15,4,3,70,146,32,5,2,378670,2024
+1,Bind,LEVIATÁN,C0M,Viper,0.9,192,15,16,2,0,61,135,24,2,2,378670,2024
+1,Bind,LEVIATÁN,Mazino,Skye,0.57,139,9,17,7,-3,57,99,31,1,4,378670,2024
+1,Bind,LEVIATÁN,kiNgg,Brimstone,0.54,95,6,15,13,-1,70,64,20,1,2,378670,2024
+1,Bind,Trace Esports,Kai,Cypher,1.14,225,17,17,6,0,61,136,27,4,4,378670,2024
+1,Bind,Trace Esports,FengF,Raze,1.09,215,17,14,2,-2,74,142,35,2,4,378670,2024
+1,Bind,Trace Esports,Biank,Skye,1.06,173,13,13,6,-1,74,100,17,2,3,378670,2024
+1,Bind,Trace Esports,heybay,Deadlock,1.05,165,14,11,4,-1,70,110,14,0,1,378670,2024
+1,Bind,Trace Esports,LuoK1ng,Brimstone,1.05,196,16,15,8,3,78,130,34,3,0,378670,2024
+2,Sunset,LEVIATÁN,aspas,Neon,1.51,288,23,13,8,2,86,200,36,5,3,378670,2024
+2,Sunset,LEVIATÁN,kiNgg,Omen,1.19,203,17,12,5,-1,86,138,38,2,3,378670,2024
+2,Sunset,LEVIATÁN,C0M,Sova,1.19,210,14,13,9,3,68,174,25,3,0,378670,2024
+2,Sunset,LEVIATÁN,tex,Cypher,1.05,222,18,16,4,1,64,140,30,2,1,378670,2024
+2,Sunset,LEVIATÁN,Mazino,Breach,0.91,173,15,16,10,3,82,92,41,3,0,378670,2024
+2,Sunset,Trace Esports,heybay,Breach,1.24,229,18,17,12,-1,82,159,36,0,1,378670,2024
+2,Sunset,Trace Esports,Kai,Cypher,1.15,215,16,15,3,0,73,157,31,2,2,378670,2024
+2,Sunset,Trace Esports,Biank,Sova,0.73,159,11,17,11,-3,68,99,4,2,5,378670,2024
+2,Sunset,Trace Esports,LuoK1ng,Omen,0.71,146,13,18,7,-1,68,79,46,1,2,378670,2024
+2,Sunset,Trace Esports,FengF,Raze,0.61,182,12,20,5,-3,64,134,27,2,5,378670,2024
+3,Ascent,LEVIATÁN,kiNgg,Omen,1.43,267,16,13,8,-3,78,170,43,1,4,378670,2024
+3,Ascent,LEVIATÁN,Mazino,Deadlock,0.76,190,10,16,5,-1,56,116,23,2,3,378670,2024
+3,Ascent,LEVIATÁN,aspas,Jett,0.72,174,13,15,0,-3,44,107,26,0,3,378670,2024
+3,Ascent,LEVIATÁN,tex,Cypher,0.6,142,8,16,5,-3,67,100,20,0,3,378670,2024
+3,Ascent,LEVIATÁN,C0M,Sova,0.48,125,9,16,1,-2,44,72,13,0,2,378670,2024
+3,Ascent,Trace Esports,Kai,Jett,1.57,281,19,10,5,4,83,191,30,5,1,378670,2024
+3,Ascent,Trace Esports,FengF,Killjoy,1.53,300,21,11,1,3,78,198,32,3,0,378670,2024
+3,Ascent,Trace Esports,LuoK1ng,Omen,1.16,219,14,11,10,2,83,133,36,2,0,378670,2024
+3,Ascent,Trace Esports,Biank,Sova,1.15,230,13,12,12,3,67,151,11,3,0,378670,2024
+3,Ascent,Trace Esports,heybay,Kayo,0.65,142,9,12,7,0,72,89,27,2,2,378670,2024
+1,Icebox,EDward Gaming,S1Mon,Kayo,1.47,260,19,12,13,0,76,154,28,1,1,378675,2024
+1,Icebox,EDward Gaming,CHICHOO,Killjoy,1.35,268,21,12,2,2,81,167,36,3,1,378675,2024
+1,Icebox,EDward Gaming,ZmjjKK,Jett,1.19,228,18,11,4,-1,71,134,25,2,3,378675,2024
+1,Icebox,EDward Gaming,Smoggy,Viper,1.07,210,17,12,5,2,62,115,15,4,2,378675,2024
+1,Icebox,EDward Gaming,nobody,Sova,0.52,104,6,15,4,0,52,70,26,2,2,378675,2024
+1,Icebox,G2 Esports,icy,Gekko,1.27,236,16,15,4,-1,57,167,29,1,2,378675,2024
+1,Icebox,G2 Esports,valyn,Harbor,1.02,224,17,16,3,2,67,135,29,3,1,378675,2024
+1,Icebox,G2 Esports,JonahP,Viper,0.96,192,15,15,4,-3,67,135,28,1,4,378675,2024
+1,Icebox,G2 Esports,leaf,Killjoy,0.5,143,7,18,5,1,52,105,15,3,2,378675,2024
+1,Icebox,G2 Esports,trent,Sova,0.42,114,7,17,4,-2,52,89,32,1,3,378675,2024
+2,Haven,EDward Gaming,ZmjjKK,Neon,1.18,280,23,18,1,0,54,185,21,5,5,378675,2024
+2,Haven,EDward Gaming,S1Mon,Breach,1.01,169,15,16,8,-3,58,110,42,0,3,378675,2024
+2,Haven,EDward Gaming,nobody,Sova,0.98,166,13,14,5,-3,71,128,48,0,3,378675,2024
+2,Haven,EDward Gaming,Smoggy,Omen,0.86,155,13,15,6,1,67,103,28,2,1,378675,2024
+2,Haven,EDward Gaming,CHICHOO,Cypher,0.75,120,10,13,4,1,71,77,22,3,2,378675,2024
+2,Haven,G2 Esports,valyn,Omen,1.29,224,19,13,7,2,79,145,25,2,0,378675,2024
+2,Haven,G2 Esports,trent,Sova,1.18,212,19,14,5,-1,79,137,41,2,3,378675,2024
+2,Haven,G2 Esports,leaf,Killjoy,1.08,216,18,16,2,6,71,135,15,7,1,378675,2024
+2,Haven,G2 Esports,icy,Yoru,0.77,142,12,16,2,-2,67,100,29,2,4,378675,2024
+2,Haven,G2 Esports,JonahP,Viper,0.71,123,8,15,11,-1,63,82,9,1,2,378675,2024
+3,Bind,EDward Gaming,S1Mon,Fade,1.24,257,24,15,3,0,58,165,23,2,2,378675,2024
+3,Bind,EDward Gaming,Smoggy,Brimstone,1.23,225,19,16,11,0,79,142,28,1,1,378675,2024
+3,Bind,EDward Gaming,CHICHOO,Viper,0.99,220,19,18,5,5,71,140,29,6,1,378675,2024
+3,Bind,EDward Gaming,nobody,Gekko,0.68,124,10,16,5,2,71,84,30,3,1,378675,2024
+3,Bind,EDward Gaming,ZmjjKK,Raze,0.59,165,12,20,6,3,58,126,16,5,2,378675,2024
+3,Bind,G2 Esports,icy,Raze,1.39,281,24,16,6,-2,71,172,22,3,5,378675,2024
+3,Bind,G2 Esports,valyn,Brimstone,1.17,196,18,14,7,-2,71,112,20,0,2,378675,2024
+3,Bind,G2 Esports,trent,Gekko,1.03,196,18,17,6,-1,67,128,37,2,3,378675,2024
+3,Bind,G2 Esports,leaf,Viper,0.97,198,15,18,6,-2,71,147,30,2,4,378675,2024
+3,Bind,G2 Esports,JonahP,Skye,0.67,136,10,19,11,-3,67,92,15,0,3,378675,2024
+1,Bind,Sentinels,zekken,Raze,1.41,262,20,13,8,0,86,162,21,3,3,378665,2024
+1,Bind,Sentinels,johnqt,Viper,1.17,164,12,9,6,0,76,107,25,2,2,378665,2024
+1,Bind,Sentinels,TenZ,Gekko,1.11,185,14,12,5,1,71,120,21,2,1,378665,2024
+1,Bind,Sentinels,Zellsis,Brimstone,1.11,221,17,14,11,-2,76,112,16,1,3,378665,2024
+1,Bind,Sentinels,Sacy,Fade,0.89,172,11,14,15,0,81,137,28,2,2,378665,2024
+1,Bind,FunPlus Phoenix,Autumn,Chamber,1.14,253,20,16,0,3,76,143,44,5,2,378665,2024
+1,Bind,FunPlus Phoenix,BerLIN,Omen,1.07,197,15,14,5,2,71,137,24,3,1,378665,2024
+1,Bind,FunPlus Phoenix,AAAAY,Fade,0.91,137,10,12,6,-1,62,106,24,0,1,378665,2024
+1,Bind,FunPlus Phoenix,Life,Yoru,0.72,174,12,17,3,-2,57,120,39,3,5,378665,2024
+1,Bind,FunPlus Phoenix,Lysoar,Viper,0.56,84,5,15,10,-1,52,70,29,0,1,378665,2024
+2,Lotus,Sentinels,zekken,Raze,1.57,288,19,11,4,4,72,195,24,6,2,378665,2024
+2,Lotus,Sentinels,TenZ,Omen,1.38,282,19,11,10,1,89,181,19,2,1,378665,2024
+2,Lotus,Sentinels,Sacy,Fade,1.27,230,14,10,13,0,78,146,15,1,1,378665,2024
+2,Lotus,Sentinels,johnqt,Viper,1.17,156,10,7,5,1,83,114,15,2,1,378665,2024
+2,Lotus,Sentinels,Zellsis,Killjoy,1.04,141,9,6,2,0,78,99,23,1,1,378665,2024
+2,Lotus,FunPlus Phoenix,BerLIN,Breach,0.96,208,11,14,9,-2,50,131,24,0,2,378665,2024
+2,Lotus,FunPlus Phoenix,Autumn,Chamber,0.8,190,12,15,1,2,50,112,30,5,3,378665,2024
+2,Lotus,FunPlus Phoenix,AAAAY,Gekko,0.62,105,6,13,3,0,72,60,13,1,1,378665,2024
+2,Lotus,FunPlus Phoenix,Life,Viper,0.56,151,10,15,1,-5,56,86,32,0,5,378665,2024
+2,Lotus,FunPlus Phoenix,Lysoar,Omen,0.52,97,6,14,3,-1,67,61,26,0,1,378665,2024
+1,Lotus,Bilibili Gaming,Flex1n,Omen,1.06,215,16,19,6,1,73,169,33,3,2,378659,2024
+1,Lotus,Bilibili Gaming,Knight,Breach,1.02,178,14,17,11,0,68,106,34,0,0,378659,2024
+1,Lotus,Bilibili Gaming,whzy,Neon,0.94,242,16,20,9,4,59,142,22,7,3,378659,2024
+1,Lotus,Bilibili Gaming,nephh,Fade,0.73,159,11,17,8,-3,59,98,16,1,4,378659,2024
+1,Lotus,Bilibili Gaming,yosemite,Viper,0.44,71,5,16,5,-2,55,52,14,0,2,378659,2024
+1,Lotus,KRÜ Esports,keznit,Raze,1.47,258,17,12,11,3,95,205,16,3,0,378659,2024
+1,Lotus,KRÜ Esports,heat,Fade,1.39,244,21,11,4,0,91,153,36,1,1,378659,2024
+1,Lotus,KRÜ Esports,Shyy,Killjoy,1.29,263,23,13,3,-1,73,179,28,2,3,378659,2024
+1,Lotus,KRÜ Esports,mta,Viper,1.08,156,14,11,7,0,82,99,24,3,3,378659,2024
+1,Lotus,KRÜ Esports,Melser,Omen,0.85,181,14,15,9,-2,77,124,32,2,4,378659,2024
+2,Icebox,Bilibili Gaming,Flex1n,Viper,1.37,238,16,11,6,0,88,146,57,2,2,378659,2024
+2,Icebox,Bilibili Gaming,yosemite,Killjoy,0.76,202,12,16,2,1,53,131,31,1,0,378659,2024
+2,Icebox,Bilibili Gaming,whzy,Jett,0.57,221,11,17,2,-6,53,138,26,1,7,378659,2024
+2,Icebox,Bilibili Gaming,Knight,Sage,0.47,105,4,14,9,-2,59,70,24,0,2,378659,2024
+2,Icebox,Bilibili Gaming,nephh,Kayo,0.37,111,5,16,4,-2,47,79,20,0,2,378659,2024
+2,Icebox,KRÜ Esports,heat,Gekko,1.69,285,18,7,3,3,88,191,40,4,1,378659,2024
+2,Icebox,KRÜ Esports,mta,Sova,1.63,278,18,9,4,3,94,181,45,3,0,378659,2024
+2,Icebox,KRÜ Esports,keznit,Jett,1.22,206,15,9,3,0,88,134,17,1,1,378659,2024
+2,Icebox,KRÜ Esports,Shyy,Killjoy,1.17,258,17,11,3,3,76,169,21,3,0,378659,2024
+2,Icebox,KRÜ Esports,Melser,Viper,0.63,136,6,12,12,0,82,94,25,2,2,378659,2024
+1,Lotus,TALON,primmie,Clove,0.96,192,14,15,4,1,68,133,39,1,0,378671,2024
+1,Lotus,TALON,ban,Deadlock,0.83,184,12,14,2,1,68,118,31,3,2,378671,2024
+1,Lotus,TALON,Governor,Raze,0.7,184,10,16,2,1,58,122,20,4,3,378671,2024
+1,Lotus,TALON,JitBoyS,Omen,0.64,185,12,15,3,2,63,115,34,2,0,378671,2024
+1,Lotus,TALON,Crws,Fade,0.5,123,7,14,7,-2,68,78,15,1,3,378671,2024
+1,Lotus,Team Vitality,Kicks,Breach,1.87,299,22,9,13,-1,79,196,33,0,1,378671,2024
+1,Lotus,Team Vitality,trexx,Fade,1.59,285,19,10,11,0,95,185,20,1,1,378671,2024
+1,Lotus,Team Vitality,Sayf,Raze,1.04,190,11,11,6,-1,79,129,13,1,2,378671,2024
+1,Lotus,Team Vitality,ceNder,Omen,0.93,187,12,12,7,-3,79,119,27,2,5,378671,2024
+1,Lotus,Team Vitality,runneR,Cypher,0.79,153,10,13,3,2,68,102,19,4,2,378671,2024
+2,Sunset,TALON,primmie,Raze,1.32,281,21,15,4,1,71,177,31,3,2,378671,2024
+2,Sunset,TALON,ban,Cypher,1.0,232,18,16,3,-1,76,155,46,1,2,378671,2024
+2,Sunset,TALON,JitBoyS,Omen,0.67,157,10,19,8,2,81,106,27,2,0,378671,2024
+2,Sunset,TALON,Governor,Deadlock,0.57,161,12,17,6,-6,62,106,30,1,7,378671,2024
+2,Sunset,TALON,Crws,Fade,0.53,153,11,19,3,1,57,100,45,2,1,378671,2024
+2,Sunset,Team Vitality,Sayf,Neon,1.34,264,22,14,4,0,67,178,36,3,3,378671,2024
+2,Sunset,Team Vitality,runneR,Cypher,1.33,278,21,14,4,2,81,171,20,3,1,378671,2024
+2,Sunset,Team Vitality,Kicks,Kayo,1.32,246,18,14,10,3,90,133,19,4,1,378671,2024
+2,Sunset,Team Vitality,ceNder,Omen,1.01,196,16,14,9,-2,62,116,24,1,3,378671,2024
+2,Sunset,Team Vitality,trexx,Sova,0.65,133,9,16,9,0,71,101,25,1,1,378671,2024
+1,Sunset,FUT Esports,cNed,Raze,1.17,262,21,17,4,1,67,179,20,3,2,378676,2024
+1,Sunset,FUT Esports,yetujey,Cypher,1.12,231,19,17,2,5,63,158,33,7,2,378676,2024
+1,Sunset,FUT Esports,AtaKaptan,Omen,1.04,181,15,14,10,0,71,120,39,2,2,378676,2024
+1,Sunset,FUT Esports,qRaxs,Gekko,0.93,185,17,17,6,-2,75,119,42,1,3,378676,2024
+1,Sunset,FUT Esports,MrFaliN,Breach,0.72,171,13,18,9,2,71,116,31,2,0,378676,2024
+1,Sunset,Paper Rex,d4v41,Sage,1.22,203,19,15,5,0,75,138,33,1,1,378676,2024
+1,Sunset,Paper Rex,mindfreak,Omen,1.15,230,22,18,6,0,83,150,34,0,0,378676,2024
+1,Sunset,Paper Rex,Jinggg,Raze,1.02,213,16,17,10,-4,58,147,19,3,7,378676,2024
+1,Sunset,Paper Rex,something,Gekko,0.99,200,15,17,10,-3,75,142,37,2,5,378676,2024
+1,Sunset,Paper Rex,f0rsakeN,Breach,0.7,149,11,18,13,1,79,95,46,3,2,378676,2024
+2,Bind,FUT Esports,yetujey,Viper,1.25,252,17,14,2,2,68,153,33,3,1,378676,2024
+2,Bind,FUT Esports,cNed,Raze,0.92,206,14,17,2,0,58,132,24,1,1,378676,2024
+2,Bind,FUT Esports,MrFaliN,Gekko,0.74,165,11,14,5,-5,63,114,23,0,5,378676,2024
+2,Bind,FUT Esports,qRaxs,Fade,0.54,90,5,15,5,-1,53,61,19,1,2,378676,2024
+2,Bind,FUT Esports,AtaKaptan,Brimstone,0.52,125,7,15,4,-5,42,87,16,0,5,378676,2024
+2,Bind,Paper Rex,Jinggg,Raze,1.33,308,21,13,3,6,84,172,28,8,2,378676,2024
+2,Bind,Paper Rex,mindfreak,Brimstone,1.27,187,11,9,16,1,84,121,42,1,0,378676,2024
+2,Bind,Paper Rex,d4v41,Viper,1.26,240,15,12,5,1,79,171,31,1,0,378676,2024
+2,Bind,Paper Rex,f0rsakeN,Fade,1.11,157,13,8,6,-1,84,113,33,1,2,378676,2024
+2,Bind,Paper Rex,something,Gekko,0.97,187,14,12,6,2,79,121,27,3,1,378676,2024
+1,Lotus,Gen.G,t3xture,Raze,1.45,290,23,15,4,2,73,181,21,5,3,378666,2024
+1,Lotus,Gen.G,Munchkin,Viper,1.38,272,21,16,8,0,82,179,19,2,2,378666,2024
+1,Lotus,Gen.G,Karon,Omen,0.67,131,10,17,10,-3,73,94,30,0,3,378666,2024
+1,Lotus,Gen.G,Meteor,Killjoy,0.49,153,12,18,2,-2,50,101,24,1,3,378666,2024
+1,Lotus,Gen.G,Lakia,Fade,0.43,76,4,15,7,-1,82,49,20,1,2,378666,2024
+1,Lotus,Sentinels,johnqt,Viper,1.31,188,15,12,11,3,82,120,9,3,0,378666,2024
+1,Lotus,Sentinels,zekken,Raze,1.25,267,23,16,7,2,73,154,23,5,3,378666,2024
+1,Lotus,Sentinels,Zellsis,Killjoy,1.21,245,20,13,3,3,82,148,15,4,1,378666,2024
+1,Lotus,Sentinels,TenZ,Omen,1.15,166,14,12,9,0,73,120,18,1,1,378666,2024
+1,Lotus,Sentinels,Sacy,Fade,0.75,156,9,17,14,-4,77,118,12,0,4,378666,2024
+2,Icebox,Gen.G,t3xture,Jett,1.14,261,18,15,2,-1,63,156,34,3,4,378666,2024
+2,Icebox,Gen.G,Meteor,Killjoy,0.79,223,14,18,3,1,63,153,43,2,1,378666,2024
+2,Icebox,Gen.G,Munchkin,Kayo,0.77,175,11,16,9,-2,68,107,26,1,3,378666,2024
+2,Icebox,Gen.G,Karon,Viper,0.43,119,8,16,2,2,58,82,24,2,0,378666,2024
+2,Icebox,Gen.G,Lakia,Gekko,0.32,90,5,15,4,-1,58,64,24,1,2,378666,2024
+2,Icebox,Sentinels,Sacy,Sova,1.65,273,19,10,5,1,79,184,29,3,2,378666,2024
+2,Icebox,Sentinels,TenZ,Kayo,1.53,287,20,13,16,0,95,167,23,1,1,378666,2024
+2,Icebox,Sentinels,johnqt,Viper,1.12,159,11,10,9,0,84,101,19,1,1,378666,2024
+2,Icebox,Sentinels,zekken,Jett,1.12,223,17,12,4,2,74,152,31,4,2,378666,2024
+2,Icebox,Sentinels,Zellsis,Killjoy,1.07,192,13,11,3,-2,79,121,19,1,3,378666,2024
+1,Sunset,FNATIC,Chronicle,Sova,1.37,297,24,17,6,2,67,200,31,2,0,378660,2024
+1,Sunset,FNATIC,hiro,Cypher,1.07,223,19,18,6,-1,79,154,35,2,3,378660,2024
+1,Sunset,FNATIC,Boaster,Astra,1.04,167,16,14,3,3,71,100,36,4,1,378660,2024
+1,Sunset,FNATIC,Alfajer,Breach,1.0,180,15,16,11,-3,67,138,30,0,3,378660,2024
+1,Sunset,FNATIC,Derke,Raze,0.82,201,14,20,9,-3,79,160,25,3,6,378660,2024
+1,Sunset,KRÜ Esports,keznit,Neon,1.19,260,22,19,6,0,71,179,26,3,3,378660,2024
+1,Sunset,KRÜ Esports,Shyy,Cypher,1.12,265,21,17,9,3,83,170,20,6,3,378660,2024
+1,Sunset,KRÜ Esports,heat,Breach,1.06,191,18,17,8,1,67,117,38,1,0,378660,2024
+1,Sunset,KRÜ Esports,Melser,Omen,0.73,150,13,17,4,-2,54,92,31,2,4,378660,2024
+1,Sunset,KRÜ Esports,mta,Sova,0.57,112,10,18,5,0,54,79,26,1,1,378660,2024
+2,Haven,FNATIC,Derke,Yoru,1.47,249,21,11,5,0,91,151,33,4,4,378660,2024
+2,Haven,FNATIC,Chronicle,Sova,1.35,211,12,10,12,3,86,164,31,3,0,378660,2024
+2,Haven,FNATIC,Boaster,Omen,1.07,188,15,13,11,1,77,114,16,2,1,378660,2024
+2,Haven,FNATIC,Alfajer,Iso,1.05,235,18,17,6,-2,77,161,30,0,2,378660,2024
+2,Haven,FNATIC,hiro,Cypher,0.84,151,13,14,3,2,82,89,29,4,2,378660,2024
+2,Haven,KRÜ Esports,Shyy,Cypher,1.03,171,14,12,5,-1,68,107,42,1,2,378660,2024
+2,Haven,KRÜ Esports,mta,Sova,0.8,175,13,17,3,-1,55,109,48,2,3,378660,2024
+2,Haven,KRÜ Esports,keznit,Neon,0.79,208,14,18,7,-1,73,135,18,2,3,378660,2024
+2,Haven,KRÜ Esports,Melser,Omen,0.74,158,14,17,1,-1,64,99,34,2,3,378660,2024
+2,Haven,KRÜ Esports,heat,Breach,0.65,129,10,15,6,0,68,80,38,2,2,378660,2024
+3,Lotus,FNATIC,Derke,Raze,2.3,453,30,11,5,3,94,278,14,5,2,378660,2024
+3,Lotus,FNATIC,hiro,Fade,1.16,247,18,12,3,3,72,139,23,3,0,378660,2024
+3,Lotus,FNATIC,Chronicle,Viper,1.01,213,13,13,6,-2,56,144,21,0,2,378660,2024
+3,Lotus,FNATIC,Alfajer,Killjoy,0.64,114,7,11,4,-2,67,81,19,1,3,378660,2024
+3,Lotus,FNATIC,Boaster,Omen,0.42,117,7,14,7,-2,72,68,26,0,2,378660,2024
+3,Lotus,KRÜ Esports,keznit,Raze,1.22,242,14,14,8,1,83,181,21,2,1,378660,2024
+3,Lotus,KRÜ Esports,Shyy,Killjoy,1.03,195,14,13,2,-1,67,137,36,1,2,378660,2024
+3,Lotus,KRÜ Esports,Melser,Omen,0.77,164,11,15,2,-1,67,115,55,2,3,378660,2024
+3,Lotus,KRÜ Esports,heat,Fade,0.68,164,11,16,3,-1,61,106,23,0,1,378660,2024
+3,Lotus,KRÜ Esports,mta,Viper,0.64,184,11,17,6,2,67,118,33,4,2,378660,2024
+1,Icebox,LEVIATÁN,aspas,Jett,1.24,222,21,16,3,2,85,143,39,5,3,378672,2024
+1,Icebox,LEVIATÁN,kiNgg,Viper,1.23,229,22,17,6,0,77,148,39,2,2,378672,2024
+1,Icebox,LEVIATÁN,Mazino,Harbor,1.0,197,18,18,3,-2,58,130,26,2,4,378672,2024
+1,Icebox,LEVIATÁN,C0M,Sova,0.91,186,16,20,7,1,69,146,31,2,1,378672,2024
+1,Icebox,LEVIATÁN,tex,Killjoy,0.55,171,15,24,4,-1,58,112,32,2,3,378672,2024
+1,Icebox,Team Vitality,trexx,Sova,1.15,225,22,19,8,-1,62,148,20,2,3,378672,2024
+1,Icebox,Team Vitality,Kicks,Gekko,1.08,216,20,19,5,3,69,145,37,3,0,378672,2024
+1,Icebox,Team Vitality,ceNder,Viper,0.99,208,19,18,8,-2,77,140,37,2,4,378672,2024
+1,Icebox,Team Vitality,Sayf,Jett,0.98,195,20,17,1,-2,58,121,36,4,6,378672,2024
+1,Icebox,Team Vitality,runneR,Killjoy,0.8,179,14,19,9,2,73,129,18,2,0,378672,2024
+2,Sunset,LEVIATÁN,C0M,Sova,1.43,233,16,8,3,2,82,144,16,2,0,378672,2024
+2,Sunset,LEVIATÁN,Mazino,Breach,1.38,260,15,12,14,1,94,169,34,2,1,378672,2024
+2,Sunset,LEVIATÁN,aspas,Neon,1.31,212,15,10,5,1,82,155,39,2,1,378672,2024
+2,Sunset,LEVIATÁN,tex,Cypher,1.28,264,16,12,7,2,76,153,37,4,2,378672,2024
+2,Sunset,LEVIATÁN,kiNgg,Omen,1.07,168,12,9,2,3,76,114,33,3,0,378672,2024
+2,Sunset,Team Vitality,Sayf,Neon,1.07,256,14,14,3,-2,59,160,18,1,3,378672,2024
+2,Sunset,Team Vitality,trexx,Sova,0.83,198,12,15,2,-1,71,128,19,1,2,378672,2024
+2,Sunset,Team Vitality,runneR,Cypher,0.71,218,11,16,6,-1,59,140,17,1,2,378672,2024
+2,Sunset,Team Vitality,Kicks,Kayo,0.62,112,6,14,11,-3,71,80,35,0,3,378672,2024
+2,Sunset,Team Vitality,ceNder,Omen,0.43,132,8,15,5,-2,65,80,19,1,3,378672,2024
+1,Icebox,EDward Gaming,CHICHOO,Killjoy,1.18,253,14,14,2,1,81,177,20,2,1,378677,2024
+1,Icebox,EDward Gaming,Smoggy,Viper,0.91,253,14,14,3,-2,75,160,33,1,3,378677,2024
+1,Icebox,EDward Gaming,S1Mon,Kayo,0.87,178,9,13,7,1,69,125,27,1,0,378677,2024
+1,Icebox,EDward Gaming,ZmjjKK,Jett,0.57,154,9,13,2,0,75,108,28,2,2,378677,2024
+1,Icebox,EDward Gaming,nobody,Sova,0.5,134,6,14,4,0,56,90,29,2,2,378677,2024
+1,Icebox,Paper Rex,f0rsakeN,Sova,1.88,308,21,9,3,1,81,235,39,2,1,378677,2024
+1,Icebox,Paper Rex,something,Jett,1.39,334,18,12,3,3,75,208,31,5,2,378677,2024
+1,Icebox,Paper Rex,mindfreak,Viper,1.09,228,14,12,6,0,81,151,29,0,0,378677,2024
+1,Icebox,Paper Rex,d4v41,Killjoy,1.02,150,8,8,7,-2,88,117,29,0,2,378677,2024
+1,Icebox,Paper Rex,Jinggg,Sage,0.74,131,7,11,10,-2,75,85,10,1,3,378677,2024
+2,Sunset,EDward Gaming,CHICHOO,Cypher,1.39,225,17,11,10,3,90,165,37,3,0,378677,2024
+2,Sunset,EDward Gaming,Smoggy,Omen,1.37,212,17,11,4,2,71,146,38,2,0,378677,2024
+2,Sunset,EDward Gaming,nobody,Sova,1.14,255,18,15,8,-1,67,166,34,2,3,378677,2024
+2,Sunset,EDward Gaming,ZmjjKK,Neon,1.07,269,20,16,5,2,81,173,35,6,4,378677,2024
+2,Sunset,EDward Gaming,S1Mon,Kayo,1.02,163,12,12,9,1,76,111,25,1,0,378677,2024
+2,Sunset,Paper Rex,mindfreak,Omen,1.35,272,18,15,10,2,76,172,25,3,1,378677,2024
+2,Sunset,Paper Rex,d4v41,Sage,1.02,209,17,16,4,1,62,130,50,2,1,378677,2024
+2,Sunset,Paper Rex,something,Gekko,0.92,189,13,17,10,-1,67,134,36,1,2,378677,2024
+2,Sunset,Paper Rex,Jinggg,Raze,0.72,179,12,17,3,-4,57,114,12,1,5,378677,2024
+2,Sunset,Paper Rex,f0rsakeN,Breach,0.17,65,5,19,0,-5,43,43,13,0,5,378677,2024
+3,Lotus,EDward Gaming,Smoggy,Clove,2.01,331,21,6,10,3,82,202,36,3,0,378677,2024
+3,Lotus,EDward Gaming,CHICHOO,Omen,1.34,205,13,8,9,3,88,112,30,3,0,378677,2024
+3,Lotus,EDward Gaming,nobody,Fade,1.28,246,15,10,9,-1,76,152,33,0,1,378677,2024
+3,Lotus,EDward Gaming,S1Mon,Breach,1.24,164,11,7,5,3,88,99,47,3,0,378677,2024
+3,Lotus,EDward Gaming,ZmjjKK,Neon,0.76,170,9,13,7,3,82,102,32,5,2,378677,2024
+3,Lotus,Paper Rex,Jinggg,Raze,0.99,271,13,14,6,-4,76,192,17,0,4,378677,2024
+3,Lotus,Paper Rex,f0rsakeN,Cypher,0.85,173,11,13,1,-2,47,128,42,0,2,378677,2024
+3,Lotus,Paper Rex,something,Jett,0.68,133,8,13,1,-4,71,69,5,1,5,378677,2024
+3,Lotus,Paper Rex,d4v41,Skye,0.54,125,7,15,7,-1,65,77,37,1,2,378677,2024
+3,Lotus,Paper Rex,mindfreak,Omen,0.43,104,5,14,3,0,65,78,33,1,1,378677,2024
+1,Sunset,DRX,Foxy9,Breach,1.24,220,23,17,13,1,82,118,29,1,0,378822,2024
+1,Sunset,DRX,Flashback,Cypher,1.15,220,22,18,4,2,64,151,30,3,1,378822,2024
+1,Sunset,DRX,BeYN,Sova,0.97,172,18,20,5,-3,71,105,28,1,4,378822,2024
+1,Sunset,DRX,BuZz,Neon,0.73,197,18,22,10,-3,57,130,27,4,7,378822,2024
+1,Sunset,DRX,MaKo,Omen,0.72,163,13,21,11,1,75,113,15,4,3,378822,2024
+1,Sunset,Sentinels,zekken,Neon,1.19,289,27,23,8,4,75,184,26,8,4,378822,2024
+1,Sunset,Sentinels,TenZ,Omen,1.14,211,21,19,13,0,68,141,20,3,3,378822,2024
+1,Sunset,Sentinels,Zellsis,Breach,1.05,191,17,17,17,0,79,121,17,2,2,378822,2024
+1,Sunset,Sentinels,Sacy,Fade,1.03,182,18,20,16,-1,79,116,25,1,2,378822,2024
+1,Sunset,Sentinels,johnqt,Cypher,0.94,140,15,15,7,-1,71,91,27,1,2,378822,2024
+2,Haven,DRX,MaKo,Omen,1.09,231,17,16,10,0,81,136,32,1,1,378822,2024
+2,Haven,DRX,Flashback,Cypher,1.04,235,17,16,3,3,76,151,26,4,1,378822,2024
+2,Haven,DRX,BuZz,Jett,0.87,215,15,17,0,-1,57,126,32,5,6,378822,2024
+2,Haven,DRX,Foxy9,Breach,0.69,125,8,15,10,-2,62,97,23,0,2,378822,2024
+2,Haven,DRX,BeYN,Sova,0.65,127,10,16,4,-1,67,91,17,0,1,378822,2024
+2,Haven,Sentinels,Zellsis,Breach,1.48,227,17,10,16,-2,81,142,14,0,2,378822,2024
+2,Haven,Sentinels,zekken,Neon,1.46,349,27,16,7,4,90,217,30,6,2,378822,2024
+2,Haven,Sentinels,Sacy,Sova,1.04,202,12,14,14,0,76,142,26,3,3,378822,2024
+2,Haven,Sentinels,TenZ,Omen,0.99,197,15,15,8,-1,90,124,29,1,2,378822,2024
+2,Haven,Sentinels,johnqt,Cypher,0.86,104,9,12,8,0,76,58,22,1,1,378822,2024
+1,Bind,Trace Esports,Kai,Cypher,0.94,184,13,14,3,0,65,125,44,2,2,378823,2024
+1,Bind,Trace Esports,FengF,Raze,0.94,175,13,13,2,-3,65,110,16,0,3,378823,2024
+1,Bind,Trace Esports,LuoK1ng,Brimstone,0.85,172,12,14,6,0,60,109,28,2,2,378823,2024
+1,Bind,Trace Esports,Biank,Skye,0.71,117,8,14,9,1,55,64,12,2,1,378823,2024
+1,Bind,Trace Esports,heybay,Deadlock,0.52,134,8,17,9,-2,65,93,24,2,4,378823,2024
+1,Bind,EDward Gaming,nobody,Gekko,1.63,313,23,11,5,1,80,206,48,3,2,378823,2024
+1,Bind,EDward Gaming,Smoggy,Brimstone,1.47,250,17,10,10,2,70,152,24,2,0,378823,2024
+1,Bind,EDward Gaming,ZmjjKK,Raze,1.37,271,19,14,3,3,70,202,25,6,3,378823,2024
+1,Bind,EDward Gaming,CHICHOO,Viper,0.97,135,10,9,3,-1,60,83,28,1,2,378823,2024
+1,Bind,EDward Gaming,S1Mon,Fade,0.62,55,3,10,8,-1,70,41,25,0,1,378823,2024
+2,Sunset,Trace Esports,Kai,Cypher,1.24,234,19,15,3,1,83,161,32,4,3,378823,2024
+2,Sunset,Trace Esports,LuoK1ng,Omen,1.02,163,15,14,7,0,74,116,22,0,0,378823,2024
+2,Sunset,Trace Esports,heybay,Breach,0.89,213,18,18,4,-1,74,119,33,2,3,378823,2024
+2,Sunset,Trace Esports,Biank,Sova,0.79,187,14,17,4,0,61,127,40,2,2,378823,2024
+2,Sunset,Trace Esports,FengF,Raze,0.69,155,12,18,3,-3,57,108,21,2,5,378823,2024
+2,Sunset,EDward Gaming,ZmjjKK,Neon,1.48,346,28,17,1,2,57,214,30,7,5,378823,2024
+2,Sunset,EDward Gaming,CHICHOO,Cypher,1.31,251,21,18,7,2,65,155,30,4,2,378823,2024
+2,Sunset,EDward Gaming,S1Mon,Kayo,1.01,144,11,13,14,0,83,99,21,1,1,378823,2024
+2,Sunset,EDward Gaming,nobody,Sova,0.88,191,14,17,10,0,65,134,49,1,1,378823,2024
+2,Sunset,EDward Gaming,Smoggy,Omen,0.7,107,8,13,9,-1,70,59,31,0,1,378823,2024
+1,Icebox,G2 Esports,leaf,Killjoy,1.3,263,27,21,7,6,83,164,18,6,0,378824,2024
+1,Icebox,G2 Esports,trent,Sova,1.04,211,20,21,10,-3,67,145,39,1,4,378824,2024
+1,Icebox,G2 Esports,valyn,Harbor,0.94,215,25,24,7,1,70,128,32,2,1,378824,2024
+1,Icebox,G2 Esports,JonahP,Viper,0.92,198,19,21,10,-3,73,127,23,2,5,378824,2024
+1,Icebox,G2 Esports,icy,Gekko,0.72,154,15,22,9,-1,73,102,31,4,5,378824,2024
+1,Icebox,LEVIATÁN,C0M,Sova,1.15,223,22,18,5,1,73,157,24,6,5,378824,2024
+1,Icebox,LEVIATÁN,tex,Killjoy,1.04,243,26,23,5,1,67,160,23,5,4,378824,2024
+1,Icebox,LEVIATÁN,aspas,Jett,1.0,191,20,20,4,-1,73,126,35,1,2,378824,2024
+1,Icebox,LEVIATÁN,kiNgg,Viper,0.85,162,17,20,7,1,63,112,47,1,0,378824,2024
+1,Icebox,LEVIATÁN,Mazino,Harbor,0.84,201,24,25,8,-2,70,126,26,2,4,378824,2024
+2,Abyss,G2 Esports,JonahP,Viper,1.04,239,15,16,2,3,61,138,32,5,2,378824,2024
+2,Abyss,G2 Esports,trent,Sova,0.7,184,9,16,6,1,72,124,28,2,1,378824,2024
+2,Abyss,G2 Esports,icy,Yoru,0.67,150,9,16,4,-1,67,96,42,2,3,378824,2024
+2,Abyss,G2 Esports,leaf,Killjoy,0.59,170,11,17,1,-2,56,117,50,0,2,378824,2024
+2,Abyss,G2 Esports,valyn,Astra,0.42,126,8,17,2,-2,61,69,14,0,2,378824,2024
+2,Abyss,LEVIATÁN,C0M,Sova,1.77,305,20,8,5,1,89,211,36,1,0,378824,2024
+2,Abyss,LEVIATÁN,aspas,Jett,1.65,237,18,6,2,0,94,164,43,0,0,378824,2024
+2,Abyss,LEVIATÁN,kiNgg,Omen,1.36,269,19,10,7,4,89,170,30,4,0,378824,2024
+2,Abyss,LEVIATÁN,Mazino,Harbor,1.06,232,15,13,7,0,78,141,28,2,2,378824,2024
+2,Abyss,LEVIATÁN,tex,Cypher,0.12,89,5,15,3,-4,61,81,25,2,6,378824,2024
+1,Lotus,Team Heretics,Wo0t,Omen,1.84,289,18,5,4,2,94,188,56,2,0,378825,2024
+1,Lotus,Team Heretics,benjyfishy,Killjoy,1.36,169,12,5,2,1,81,120,28,1,0,378825,2024
+1,Lotus,Team Heretics,RieNs,Viper,1.34,242,14,8,5,2,88,167,32,4,2,378825,2024
+1,Lotus,Team Heretics,Boo,Fade,1.1,185,11,8,3,2,81,122,21,2,0,378825,2024
+1,Lotus,Team Heretics,MiniBoo,Raze,1.0,204,11,11,4,-1,88,141,16,2,3,378825,2024
+1,Lotus,FNATIC,Derke,Raze,0.92,246,13,15,2,-1,56,164,18,2,3,378825,2024
+1,Lotus,FNATIC,hiro,Fade,0.73,135,7,11,4,-3,69,92,19,0,3,378825,2024
+1,Lotus,FNATIC,Chronicle,Viper,0.61,144,8,15,2,2,69,94,23,2,0,378825,2024
+1,Lotus,FNATIC,Alfajer,Killjoy,0.59,100,6,13,1,-1,50,85,35,0,1,378825,2024
+1,Lotus,FNATIC,Boaster,Omen,0.37,81,3,12,6,-3,69,54,22,1,4,378825,2024
+2,Abyss,Team Heretics,RieNs,Sova,1.39,280,26,17,5,2,73,184,51,2,0,378825,2024
+2,Abyss,Team Heretics,benjyfishy,Cypher,0.85,203,18,21,3,-2,65,128,34,2,4,378825,2024
+2,Abyss,Team Heretics,MiniBoo,Jett,0.78,168,16,18,3,-2,54,107,47,5,7,378825,2024
+2,Abyss,Team Heretics,Boo,Astra,0.75,138,11,19,14,-1,73,92,21,1,2,378825,2024
+2,Abyss,Team Heretics,Wo0t,Gekko,0.74,92,10,17,5,-2,73,74,53,0,2,378825,2024
+2,Abyss,FNATIC,Derke,Yoru,1.46,305,28,19,5,7,73,191,39,10,3,378825,2024
+2,Abyss,FNATIC,hiro,Viper,1.25,218,21,15,10,-2,77,139,37,1,3,378825,2024
+2,Abyss,FNATIC,Chronicle,Sova,1.21,225,20,16,6,2,77,158,24,4,2,378825,2024
+2,Abyss,FNATIC,Alfajer,Killjoy,0.89,168,16,17,3,0,73,135,38,0,0,378825,2024
+2,Abyss,FNATIC,Boaster,Astra,0.28,65,6,19,6,-2,62,39,29,1,3,378825,2024
+1,Lotus,DRX,BuZz,Raze,1.67,360,21,11,3,2,88,215,32,4,2,378831,2024
+1,Lotus,DRX,Flashback,Viper,1.58,244,14,6,9,1,100,166,38,1,0,378831,2024
+1,Lotus,DRX,BeYN,Fade,1.52,232,15,6,7,0,88,133,24,1,1,378831,2024
+1,Lotus,DRX,MaKo,Omen,1.26,141,7,6,14,0,100,96,25,1,1,378831,2024
+1,Lotus,DRX,Foxy9,Chamber,0.68,149,10,10,2,-3,69,110,25,1,4,378831,2024
+1,Lotus,Trace Esports,FengF,Raze,1.12,269,15,13,0,2,75,177,35,4,2,378831,2024
+1,Lotus,Trace Esports,heybay,Viper,0.62,116,4,14,7,1,56,94,11,2,1,378831,2024
+1,Lotus,Trace Esports,Biank,Fade,0.54,173,9,13,2,0,56,105,19,1,1,378831,2024
+1,Lotus,Trace Esports,Kai,Killjoy,0.53,110,5,14,3,-2,50,89,17,0,2,378831,2024
+1,Lotus,Trace Esports,LuoK1ng,Omen,0.43,115,6,13,5,-1,56,91,29,1,2,378831,2024
+2,Abyss,DRX,BeYN,Sova,1.53,262,18,11,8,0,89,170,24,0,0,378831,2024
+2,Abyss,DRX,Foxy9,Kayo,1.27,239,14,11,11,0,78,173,30,0,0,378831,2024
+2,Abyss,DRX,BuZz,Jett,0.98,249,16,15,3,1,78,155,17,6,5,378831,2024
+2,Abyss,DRX,Flashback,Cypher,0.91,164,11,11,4,1,83,105,43,3,2,378831,2024
+2,Abyss,DRX,MaKo,Omen,0.74,137,9,12,6,-2,61,84,32,0,2,378831,2024
+2,Abyss,Trace Esports,LuoK1ng,Astra,1.32,246,15,12,11,0,72,159,27,0,0,378831,2024
+2,Abyss,Trace Esports,Kai,Jett,1.13,281,18,14,1,-1,78,170,16,3,4,378831,2024
+2,Abyss,Trace Esports,FengF,Cypher,0.91,185,11,13,4,3,67,116,41,4,1,378831,2024
+2,Abyss,Trace Esports,heybay,Kayo,0.75,156,9,15,13,-1,72,107,27,1,2,378831,2024
+2,Abyss,Trace Esports,Biank,Sova,0.56,110,7,14,3,-1,67,74,26,1,2,378831,2024
+1,Haven,G2 Esports,JonahP,Viper,0.92,189,13,14,1,0,56,104,24,0,0,378832,2024
+1,Haven,G2 Esports,valyn,Omen,0.86,151,7,12,7,-2,81,107,25,0,2,378832,2024
+1,Haven,G2 Esports,trent,Sova,0.81,198,9,14,5,0,50,144,19,2,2,378832,2024
+1,Haven,G2 Esports,leaf,Killjoy,0.53,161,8,16,2,-2,50,106,23,2,4,378832,2024
+1,Haven,G2 Esports,icy,Yoru,0.2,73,3,15,1,-4,44,60,44,0,4,378832,2024
+1,Haven,FNATIC,Alfajer,Iso,2.12,408,24,7,3,9,94,270,34,9,0,378832,2024
+1,Haven,FNATIC,hiro,Cypher,1.58,273,16,7,6,0,100,185,21,0,0,378832,2024
+1,Haven,FNATIC,Derke,Yoru,1.27,246,16,9,1,0,75,175,44,2,2,378832,2024
+1,Haven,FNATIC,Chronicle,Sova,1.25,196,12,7,3,1,81,134,11,1,0,378832,2024
+1,Haven,FNATIC,Boaster,Omen,0.36,58,3,10,4,-2,63,37,14,0,2,378832,2024
+2,Bind,G2 Esports,icy,Raze,0.98,186,15,18,7,3,63,140,25,4,1,378832,2024
+2,Bind,G2 Esports,valyn,Brimstone,0.95,182,15,16,10,2,67,109,28,3,1,378832,2024
+2,Bind,G2 Esports,trent,Gekko,0.93,187,14,18,8,-1,75,125,21,1,2,378832,2024
+2,Bind,G2 Esports,leaf,Viper,0.89,191,17,17,4,-2,63,117,19,3,5,378832,2024
+2,Bind,G2 Esports,JonahP,Skye,0.57,130,11,20,6,0,58,86,24,2,2,378832,2024
+2,Bind,FNATIC,Chronicle,Viper,1.44,277,24,14,5,1,79,167,25,5,4,378832,2024
+2,Bind,FNATIC,Derke,Raze,1.34,283,25,14,2,1,79,181,25,3,2,378832,2024
+2,Bind,FNATIC,Alfajer,Gekko,1.09,222,20,16,2,0,58,138,35,1,1,378832,2024
+2,Bind,FNATIC,hiro,Fade,0.7,142,11,15,6,0,63,100,20,2,2,378832,2024
+2,Bind,FNATIC,Boaster,Astra,0.66,106,9,13,12,-4,71,66,19,0,4,378832,2024
+1,Haven,Sentinels,TenZ,Omen,1.34,267,22,14,6,1,73,186,30,1,0,378826,2024
+1,Haven,Sentinels,zekken,Neon,1.33,308,23,18,9,8,86,195,24,9,1,378826,2024
+1,Haven,Sentinels,johnqt,Cypher,1.26,214,19,13,8,-2,82,134,26,0,2,378826,2024
+1,Haven,Sentinels,Sacy,Sova,0.98,177,14,13,7,0,77,116,24,2,2,378826,2024
+1,Haven,Sentinels,Zellsis,Breach,0.58,112,7,17,16,-3,64,80,15,1,4,378826,2024
+1,Haven,EDward Gaming,S1Mon,Breach,1.31,222,17,16,16,1,82,154,44,1,0,378826,2024
+1,Haven,EDward Gaming,ZmjjKK,Neon,1.12,283,23,17,2,-1,64,164,30,5,6,378826,2024
+1,Haven,EDward Gaming,nobody,Sova,0.93,171,14,16,5,-1,68,108,37,1,2,378826,2024
+1,Haven,EDward Gaming,Smoggy,Omen,0.76,148,10,17,8,-1,73,96,38,0,1,378826,2024
+1,Haven,EDward Gaming,CHICHOO,Cypher,0.59,178,11,19,7,-2,55,121,23,2,4,378826,2024
+2,Lotus,Sentinels,Sacy,Fade,1.41,245,17,15,13,0,91,161,26,1,1,378826,2024
+2,Lotus,Sentinels,Zellsis,Killjoy,1.28,203,16,13,3,0,77,134,35,2,2,378826,2024
+2,Lotus,Sentinels,zekken,Raze,1.11,256,19,17,5,0,73,164,17,4,4,378826,2024
+2,Lotus,Sentinels,johnqt,Viper,0.97,153,13,13,4,-2,77,108,35,1,3,378826,2024
+2,Lotus,Sentinels,TenZ,Omen,0.68,164,12,17,11,-2,73,119,28,1,3,378826,2024
+2,Lotus,EDward Gaming,S1Mon,Breach,1.25,187,15,13,10,4,77,127,39,4,0,378826,2024
+2,Lotus,EDward Gaming,CHICHOO,Omen,0.99,185,15,15,6,1,77,133,20,1,0,378826,2024
+2,Lotus,EDward Gaming,Smoggy,Clove,0.92,229,17,19,10,1,64,151,15,1,0,378826,2024
+2,Lotus,EDward Gaming,nobody,Fade,0.91,178,15,14,4,-2,73,106,31,1,3,378826,2024
+2,Lotus,EDward Gaming,ZmjjKK,Neon,0.74,180,13,16,7,0,68,128,31,6,6,378826,2024
+3,Sunset,Sentinels,TenZ,Omen,1.28,307,21,17,7,0,84,196,44,1,1,378826,2024
+3,Sunset,Sentinels,zekken,Neon,0.82,265,17,17,4,-3,58,153,24,3,6,378826,2024
+3,Sunset,Sentinels,johnqt,Cypher,0.8,144,9,13,5,0,68,91,32,2,2,378826,2024
+3,Sunset,Sentinels,Zellsis,Breach,0.74,142,8,15,8,-1,58,101,36,1,2,378826,2024
+3,Sunset,Sentinels,Sacy,Fade,0.52,109,7,15,5,-1,58,71,26,0,1,378826,2024
+3,Sunset,EDward Gaming,CHICHOO,Cypher,1.85,333,23,10,10,4,89,204,26,4,0,378826,2024
+3,Sunset,EDward Gaming,nobody,Sova,1.39,261,20,13,3,3,74,151,35,3,0,378826,2024
+3,Sunset,EDward Gaming,ZmjjKK,Neon,1.07,236,15,14,9,1,84,152,27,3,2,378826,2024
+3,Sunset,EDward Gaming,Smoggy,Omen,0.94,152,12,12,9,-2,68,95,26,1,3,378826,2024
+3,Sunset,EDward Gaming,S1Mon,Kayo,0.76,112,7,13,14,-1,84,75,15,1,2,378826,2024
+1,Icebox,LEVIATÁN,tex,Killjoy,1.2,259,24,20,5,2,71,181,25,7,5,378827,2024
+1,Icebox,LEVIATÁN,kiNgg,Viper,1.04,194,19,20,8,1,75,124,22,2,1,378827,2024
+1,Icebox,LEVIATÁN,aspas,Jett,0.99,210,23,23,3,0,79,135,27,2,2,378827,2024
+1,Icebox,LEVIATÁN,Mazino,Harbor,0.92,199,21,22,5,2,64,136,25,2,0,378827,2024
+1,Icebox,LEVIATÁN,C0M,Sova,0.9,191,18,21,9,-3,64,140,23,2,5,378827,2024
+1,Icebox,Team Heretics,Boo,Viper,1.33,235,24,17,4,3,68,160,51,4,1,378827,2024
+1,Icebox,Team Heretics,MiniBoo,Neon,1.06,249,24,24,6,0,79,168,37,4,4,378827,2024
+1,Icebox,Team Heretics,benjyfishy,Killjoy,0.93,226,24,21,0,0,64,138,40,4,4,378827,2024
+1,Icebox,Team Heretics,RieNs,Sova,0.91,202,20,21,5,0,79,131,38,1,1,378827,2024
+1,Icebox,Team Heretics,Wo0t,Gekko,0.6,147,14,22,9,-5,71,106,32,0,5,378827,2024
+2,Lotus,LEVIATÁN,aspas,Raze,1.69,338,29,15,3,2,91,212,19,5,3,378827,2024
+2,Lotus,LEVIATÁN,Mazino,Breach,1.16,213,17,12,9,1,74,137,36,3,2,378827,2024
+2,Lotus,LEVIATÁN,kiNgg,Omen,1.02,155,12,14,11,1,83,94,23,2,1,378827,2024
+2,Lotus,LEVIATÁN,C0M,Fade,0.93,168,12,16,13,2,74,117,33,2,0,378827,2024
+2,Lotus,LEVIATÁN,tex,Cypher,0.74,146,11,14,4,1,78,100,40,3,2,378827,2024
+2,Lotus,Team Heretics,benjyfishy,Killjoy,1.21,217,19,14,2,0,70,138,32,3,3,378827,2024
+2,Lotus,Team Heretics,RieNs,Viper,1.02,183,15,16,6,-3,70,134,41,1,4,378827,2024
+2,Lotus,Team Heretics,MiniBoo,Raze,0.96,205,18,17,1,1,61,142,36,3,2,378827,2024
+2,Lotus,Team Heretics,Boo,Fade,0.78,121,9,15,9,-2,74,88,30,0,2,378827,2024
+2,Lotus,Team Heretics,Wo0t,Omen,0.51,143,10,19,10,-3,65,101,24,1,4,378827,2024
+1,Sunset,Sentinels,johnqt,Cypher,1.46,244,23,12,4,2,79,157,27,2,0,378834,2024
+1,Sunset,Sentinels,Sacy,Gekko,0.98,225,17,18,8,-1,75,154,27,2,3,378834,2024
+1,Sunset,Sentinels,Zellsis,Kayo,0.85,175,15,17,10,0,71,104,31,1,1,378834,2024
+1,Sunset,Sentinels,zekken,Raze,0.77,197,16,20,7,-5,58,119,24,4,9,378834,2024
+1,Sunset,Sentinels,TenZ,Omen,0.72,145,12,18,8,-2,71,105,20,0,2,378834,2024
+1,Sunset,FNATIC,Chronicle,Sova,1.4,271,22,16,10,3,83,181,34,4,1,378834,2024
+1,Sunset,FNATIC,Alfajer,Breach,1.37,214,20,15,13,3,79,155,63,3,0,378834,2024
+1,Sunset,FNATIC,Derke,Raze,1.19,254,22,17,6,0,71,187,25,5,5,378834,2024
+1,Sunset,FNATIC,hiro,Cypher,0.66,130,12,18,1,0,46,84,35,1,1,378834,2024
+1,Sunset,FNATIC,Boaster,Astra,0.63,133,9,17,9,0,67,81,35,2,2,378834,2024
+2,Bind,Sentinels,zekken,Raze,1.0,255,19,20,5,-1,68,179,20,4,5,378834,2024
+2,Bind,Sentinels,johnqt,Viper,0.89,195,15,14,5,2,73,122,31,4,2,378834,2024
+2,Bind,Sentinels,TenZ,Gekko,0.71,148,11,18,9,-1,68,104,14,1,2,378834,2024
+2,Bind,Sentinels,Sacy,Fade,0.66,147,12,17,6,-2,59,100,28,1,3,378834,2024
+2,Bind,Sentinels,Zellsis,Brimstone,0.65,88,5,15,17,0,77,58,35,0,0,378834,2024
+2,Bind,FNATIC,Chronicle,Viper,1.91,326,25,9,8,0,82,207,39,3,3,378834,2024
+2,Bind,FNATIC,Derke,Raze,1.25,254,22,15,2,0,64,174,25,3,3,378834,2024
+2,Bind,FNATIC,hiro,Fade,1.05,183,13,13,12,0,82,114,22,1,1,378834,2024
+2,Bind,FNATIC,Boaster,Astra,0.98,125,11,10,3,1,73,75,24,2,1,378834,2024
+2,Bind,FNATIC,Alfajer,Gekko,0.84,168,13,15,6,1,86,106,25,3,2,378834,2024
+3,Lotus,Sentinels,zekken,Raze,1.52,282,19,9,7,2,79,180,16,4,2,378834,2024
+3,Lotus,Sentinels,johnqt,Viper,1.24,230,17,11,5,0,89,158,16,1,1,378834,2024
+3,Lotus,Sentinels,Zellsis,Killjoy,1.1,218,16,12,3,-2,68,147,18,1,3,378834,2024
+3,Lotus,Sentinels,Sacy,Fade,1.07,163,11,11,10,2,89,93,19,2,0,378834,2024
+3,Lotus,Sentinels,TenZ,Omen,0.87,166,10,13,14,-1,74,101,26,2,3,378834,2024
+3,Lotus,FNATIC,Derke,Raze,1.08,265,17,15,2,2,74,155,17,3,1,378834,2024
+3,Lotus,FNATIC,Chronicle,Viper,1.01,201,12,14,6,2,68,142,26,3,1,378834,2024
+3,Lotus,FNATIC,Alfajer,Killjoy,0.8,164,10,14,1,0,74,117,23,1,1,378834,2024
+3,Lotus,FNATIC,hiro,Fade,0.67,163,10,15,5,0,53,105,26,1,1,378834,2024
+3,Lotus,FNATIC,Boaster,Omen,0.5,110,7,15,5,-5,58,77,15,1,6,378834,2024
+1,Abyss,Team Heretics,Boo,Astra,1.23,263,15,15,9,2,78,161,29,4,2,378833,2024
+1,Abyss,Team Heretics,MiniBoo,Jett,1.12,236,16,14,2,-1,83,150,36,2,3,378833,2024
+1,Abyss,Team Heretics,Wo0t,Gekko,0.71,164,9,14,9,1,61,120,18,3,2,378833,2024
+1,Abyss,Team Heretics,RieNs,Sova,0.55,127,8,17,6,-1,56,80,32,0,1,378833,2024
+1,Abyss,Team Heretics,benjyfishy,Cypher,0.34,111,7,16,1,-1,56,82,35,0,1,378833,2024
+1,Abyss,DRX,Foxy9,Kayo,1.61,302,20,12,13,1,89,175,32,2,1,378833,2024
+1,Abyss,DRX,MaKo,Omen,1.5,268,19,11,10,-1,89,158,33,1,2,378833,2024
+1,Abyss,DRX,BeYN,Sova,1.44,200,13,8,8,0,89,149,33,1,1,378833,2024
+1,Abyss,DRX,Flashback,Cypher,1.22,255,17,12,4,2,78,172,41,3,1,378833,2024
+1,Abyss,DRX,BuZz,Jett,0.37,98,6,13,1,-2,61,65,50,2,4,378833,2024
+2,Sunset,Team Heretics,MiniBoo,Raze,1.73,270,20,9,1,1,83,168,18,4,3,378833,2024
+2,Sunset,Team Heretics,RieNs,Sova,1.49,231,16,6,7,0,78,159,43,1,1,378833,2024
+2,Sunset,Team Heretics,Boo,Omen,1.1,214,14,13,6,3,67,126,45,3,0,378833,2024
+2,Sunset,Team Heretics,Wo0t,Kayo,1.08,187,12,10,12,1,83,122,21,2,1,378833,2024
+2,Sunset,Team Heretics,benjyfishy,Cypher,0.75,147,8,11,8,-3,72,102,27,0,3,378833,2024
+2,Sunset,DRX,BuZz,Neon,1.04,233,14,14,5,-2,50,146,23,4,6,378833,2024
+2,Sunset,DRX,MaKo,Omen,0.98,205,12,13,5,-2,67,123,31,0,2,378833,2024
+2,Sunset,DRX,Flashback,Cypher,0.85,159,10,14,2,2,61,114,46,2,0,378833,2024
+2,Sunset,DRX,BeYN,Sova,0.6,146,8,15,4,0,56,101,32,1,1,378833,2024
+2,Sunset,DRX,Foxy9,Breach,0.48,96,5,14,8,0,56,58,20,1,1,378833,2024
+3,Icebox,Team Heretics,benjyfishy,Killjoy,1.35,193,18,10,2,0,78,124,29,1,1,378833,2024
+3,Icebox,Team Heretics,MiniBoo,Neon,1.33,275,23,17,8,1,78,174,25,5,4,378833,2024
+3,Icebox,Team Heretics,RieNs,Sova,1.32,259,20,16,10,3,87,174,46,4,1,378833,2024
+3,Icebox,Team Heretics,Wo0t,Gekko,1.21,255,21,17,6,2,91,141,42,3,1,378833,2024
+3,Icebox,Team Heretics,Boo,Viper,0.74,123,10,16,15,-1,61,80,32,1,2,378833,2024
+3,Icebox,DRX,MaKo,Viper,1.12,259,21,19,7,0,78,165,29,2,2,378833,2024
+3,Icebox,DRX,Foxy9,Kayo,0.81,171,13,17,6,-2,78,106,19,0,2,378833,2024
+3,Icebox,DRX,BuZz,Jett,0.72,209,18,19,4,2,83,132,18,5,3,378833,2024
+3,Icebox,DRX,Flashback,Killjoy,0.72,161,13,19,7,-3,70,117,34,0,3,378833,2024
+3,Icebox,DRX,BeYN,Sova,0.63,139,11,18,5,-2,70,88,25,2,4,378833,2024
+1,Icebox,EDward Gaming,CHICHOO,Killjoy,1.21,195,24,17,4,0,70,131,24,1,1,378828,2024
+1,Icebox,EDward Gaming,ZmjjKK,Jett,1.16,259,28,22,3,2,67,168,14,5,3,378828,2024
+1,Icebox,EDward Gaming,nobody,Sova,0.95,207,20,20,8,-2,67,141,38,4,6,378828,2024
+1,Icebox,EDward Gaming,Smoggy,Viper,0.83,172,17,21,7,-3,67,116,17,2,5,378828,2024
+1,Icebox,EDward Gaming,S1Mon,Kayo,0.47,111,9,23,14,1,67,66,26,2,1,378828,2024
+1,Icebox,LEVIATÁN,aspas,Jett,1.17,234,25,20,3,4,73,159,34,7,3,378828,2024
+1,Icebox,LEVIATÁN,kiNgg,Viper,1.14,187,19,18,11,0,87,131,37,1,1,378828,2024
+1,Icebox,LEVIATÁN,Mazino,Harbor,1.14,216,23,20,11,-1,67,134,29,3,4,378828,2024
+1,Icebox,LEVIATÁN,tex,Killjoy,1.01,183,20,20,3,-3,63,121,49,2,5,378828,2024
+1,Icebox,LEVIATÁN,C0M,Sova,0.89,167,16,20,5,2,67,122,28,3,1,378828,2024
+2,Lotus,EDward Gaming,Smoggy,Clove,1.39,281,19,12,6,1,88,169,29,2,1,378828,2024
+2,Lotus,EDward Gaming,CHICHOO,Omen,1.26,225,14,9,6,1,94,132,22,2,1,378828,2024
+2,Lotus,EDward Gaming,S1Mon,Breach,1.25,207,11,11,17,1,88,149,27,1,0,378828,2024
+2,Lotus,EDward Gaming,ZmjjKK,Neon,1.12,244,16,13,3,4,76,134,23,6,2,378828,2024
+2,Lotus,EDward Gaming,nobody,Fade,1.11,143,10,7,6,-2,76,93,22,0,2,378828,2024
+2,Lotus,LEVIATÁN,tex,Cypher,1.13,270,17,14,1,-1,71,173,30,0,1,378828,2024
+2,Lotus,LEVIATÁN,aspas,Raze,1.09,234,11,12,4,1,65,177,19,4,3,378828,2024
+2,Lotus,LEVIATÁN,Mazino,Breach,0.8,223,12,16,4,0,71,161,21,1,1,378828,2024
+2,Lotus,LEVIATÁN,C0M,Fade,0.64,135,7,14,6,-3,53,88,14,0,3,378828,2024
+2,Lotus,LEVIATÁN,kiNgg,Omen,0.57,120,5,14,15,-2,65,81,13,1,3,378828,2024
+3,Abyss,EDward Gaming,CHICHOO,Astra,1.51,257,21,14,7,3,67,172,26,3,0,378828,2024
+3,Abyss,EDward Gaming,Smoggy,Omen,1.33,253,22,15,10,1,83,167,30,1,0,378828,2024
+3,Abyss,EDward Gaming,nobody,Sova,0.86,158,14,15,5,1,75,114,27,2,1,378828,2024
+3,Abyss,EDward Gaming,S1Mon,Kayo,0.82,162,13,17,15,1,79,97,26,2,1,378828,2024
+3,Abyss,EDward Gaming,ZmjjKK,Jett,0.77,221,17,21,5,4,67,136,22,9,5,378828,2024
+3,Abyss,LEVIATÁN,Mazino,Harbor,1.22,232,22,17,8,-3,67,154,24,0,3,378828,2024
+3,Abyss,LEVIATÁN,C0M,Sova,1.17,243,19,18,10,-1,88,165,28,1,2,378828,2024
+3,Abyss,LEVIATÁN,aspas,Jett,0.93,189,17,17,4,-2,67,118,17,2,4,378828,2024
+3,Abyss,LEVIATÁN,tex,Cypher,0.74,155,13,18,3,-4,71,105,54,3,7,378828,2024
+3,Abyss,LEVIATÁN,kiNgg,Omen,0.73,145,11,17,9,0,58,95,22,1,1,378828,2024
+1,Haven,Team Heretics,MiniBoo,Raze,1.15,237,16,16,2,3,86,152,22,4,1,378835,2024
+1,Haven,Team Heretics,Wo0t,Omen,0.97,207,15,15,7,0,71,134,40,2,2,378835,2024
+1,Haven,Team Heretics,Boo,Sage,0.88,168,12,16,11,-2,67,116,40,1,3,378835,2024
+1,Haven,Team Heretics,RieNs,Gekko,0.57,158,11,18,5,1,62,89,24,2,1,378835,2024
+1,Haven,Team Heretics,benjyfishy,Killjoy,0.23,78,5,18,0,-1,43,60,30,2,3,378835,2024
+1,Haven,Sentinels,TenZ,Omen,2.01,358,29,10,7,2,86,218,41,3,1,378835,2024
+1,Haven,Sentinels,johnqt,Cypher,1.22,181,14,9,4,1,86,128,29,2,1,378835,2024
+1,Haven,Sentinels,Sacy,Sova,1.05,189,12,12,7,1,81,133,28,2,1,378835,2024
+1,Haven,Sentinels,Zellsis,Breach,1.03,177,13,12,13,-2,90,118,36,1,3,378835,2024
+1,Haven,Sentinels,zekken,Neon,0.96,214,15,16,8,-3,71,138,18,2,5,378835,2024
+2,Icebox,Team Heretics,Boo,Viper,1.39,248,20,12,5,4,86,146,35,5,1,378835,2024
+2,Icebox,Team Heretics,benjyfishy,Killjoy,1.21,223,19,14,2,2,64,131,32,2,0,378835,2024
+2,Icebox,Team Heretics,RieNs,Sova,0.98,201,15,11,4,-2,68,138,41,0,2,378835,2024
+2,Icebox,Team Heretics,MiniBoo,Neon,0.94,210,16,15,5,1,68,134,34,4,3,378835,2024
+2,Icebox,Team Heretics,Wo0t,Gekko,0.76,143,11,14,4,1,59,90,38,3,2,378835,2024
+2,Icebox,Sentinels,Zellsis,Killjoy,1.36,271,22,16,2,0,73,168,43,2,2,378835,2024
+2,Icebox,Sentinels,zekken,Jett,0.97,197,17,15,2,-1,64,143,29,2,3,378835,2024
+2,Icebox,Sentinels,TenZ,Kayo,0.92,168,12,16,15,-3,55,112,24,1,4,378835,2024
+2,Icebox,Sentinels,Sacy,Sova,0.66,142,9,18,6,-2,45,99,24,1,3,378835,2024
+2,Icebox,Sentinels,johnqt,Viper,0.58,118,6,16,6,0,50,79,23,2,2,378835,2024
+3,Abyss,Team Heretics,RieNs,Sova,1.63,325,24,13,6,3,85,229,44,5,2,378835,2024
+3,Abyss,Team Heretics,Wo0t,Gekko,1.28,181,13,8,3,0,70,127,37,1,1,378835,2024
+3,Abyss,Team Heretics,MiniBoo,Jett,1.05,197,16,12,1,0,70,139,48,3,3,378835,2024
+3,Abyss,Team Heretics,benjyfishy,Cypher,1.03,230,18,13,3,-3,75,150,47,0,3,378835,2024
+3,Abyss,Team Heretics,Boo,Astra,0.99,151,9,11,20,0,85,95,18,1,1,378835,2024
+3,Abyss,Sentinels,zekken,Jett,1.59,345,26,16,2,0,65,210,34,6,6,378835,2024
+3,Abyss,Sentinels,TenZ,Omen,1.21,212,14,14,6,1,65,153,24,2,1,378835,2024
+3,Abyss,Sentinels,Sacy,Sova,0.55,125,6,16,6,1,55,98,19,1,0,378835,2024
+3,Abyss,Sentinels,johnqt,Cypher,0.49,111,7,16,7,-1,65,79,27,1,2,378835,2024
+3,Abyss,Sentinels,Zellsis,Kayo,0.45,91,4,18,10,-1,60,65,13,0,1,378835,2024
+1,Icebox,LEVIATÁN,kiNgg,Viper,1.15,214,15,14,5,1,70,139,34,3,2,378836,2024
+1,Icebox,LEVIATÁN,C0M,Sova,0.88,204,13,14,5,0,95,139,33,0,0,378836,2024
+1,Icebox,LEVIATÁN,aspas,Jett,0.68,176,13,15,2,1,65,117,24,4,3,378836,2024
+1,Icebox,LEVIATÁN,tex,Killjoy,0.63,158,11,15,1,-3,65,103,30,0,3,378836,2024
+1,Icebox,LEVIATÁN,Mazino,Harbor,0.38,88,5,16,8,-1,45,44,9,2,3,378836,2024
+1,Icebox,Team Heretics,MiniBoo,Neon,1.36,275,19,13,3,4,70,167,34,6,2,378836,2024
+1,Icebox,Team Heretics,Boo,Viper,1.31,188,12,8,6,1,90,139,31,1,0,378836,2024
+1,Icebox,Team Heretics,RieNs,Sova,1.3,223,18,11,4,-4,80,142,50,1,5,378836,2024
+1,Icebox,Team Heretics,Wo0t,Gekko,1.1,196,15,12,8,1,85,133,44,2,1,378836,2024
+1,Icebox,Team Heretics,benjyfishy,Killjoy,0.81,134,10,13,2,0,75,107,38,1,1,378836,2024
+2,Sunset,LEVIATÁN,aspas,Neon,1.08,213,21,21,6,1,68,131,30,4,3,378836,2024
+2,Sunset,LEVIATÁN,Mazino,Breach,1.04,196,19,18,13,0,75,135,34,3,3,378836,2024
+2,Sunset,LEVIATÁN,tex,Cypher,0.92,203,19,22,12,0,64,136,37,3,3,378836,2024
+2,Sunset,LEVIATÁN,C0M,Sova,0.86,189,17,19,7,1,54,125,22,3,2,378836,2024
+2,Sunset,LEVIATÁN,kiNgg,Omen,0.79,141,15,19,14,-4,68,85,34,0,4,378836,2024
+2,Sunset,Team Heretics,MiniBoo,Raze,1.28,235,22,17,7,5,82,158,31,7,2,378836,2024
+2,Sunset,Team Heretics,RieNs,Sova,1.26,256,25,21,8,-3,71,185,43,2,5,378836,2024
+2,Sunset,Team Heretics,Wo0t,Kayo,1.13,222,19,18,24,-1,82,131,37,2,3,378836,2024
+2,Sunset,Team Heretics,benjyfishy,Cypher,0.99,171,18,16,7,0,86,110,41,0,0,378836,2024
+2,Sunset,Team Heretics,Boo,Omen,0.73,143,15,19,6,1,68,93,46,4,3,378836,2024
+3,Abyss,LEVIATÁN,Mazino,Harbor,1.45,273,21,15,15,3,86,171,24,4,1,378836,2024
+3,Abyss,LEVIATÁN,kiNgg,Omen,1.24,191,18,12,9,1,77,123,43,2,1,378836,2024
+3,Abyss,LEVIATÁN,aspas,Jett,1.08,167,14,12,6,-2,77,123,17,1,3,378836,2024
+3,Abyss,LEVIATÁN,C0M,Sova,1.07,180,15,13,5,-1,82,127,48,0,1,378836,2024
+3,Abyss,LEVIATÁN,tex,Cypher,0.96,231,17,18,5,7,82,141,40,8,1,378836,2024
+3,Abyss,Team Heretics,benjyfishy,Cypher,1.02,264,20,18,3,-1,68,164,36,2,3,378836,2024
+3,Abyss,Team Heretics,Boo,Astra,1.0,181,16,16,4,-1,82,120,37,1,2,378836,2024
+3,Abyss,Team Heretics,RieNs,Sova,0.98,171,12,14,10,-3,68,129,32,1,4,378836,2024
+3,Abyss,Team Heretics,Wo0t,Gekko,0.87,180,14,18,7,-2,68,130,43,0,2,378836,2024
+3,Abyss,Team Heretics,MiniBoo,Jett,0.44,108,8,19,3,-1,55,80,33,3,4,378836,2024
+4,Lotus,LEVIATÁN,Mazino,Breach,0.81,171,9,14,8,1,63,102,16,2,1,378836,2024
+4,Lotus,LEVIATÁN,kiNgg,Omen,0.65,131,7,13,3,-1,69,98,32,0,1,378836,2024
+4,Lotus,LEVIATÁN,aspas,Raze,0.63,162,8,15,1,2,63,110,16,3,1,378836,2024
+4,Lotus,LEVIATÁN,tex,Cypher,0.55,165,10,14,1,-1,44,115,32,3,4,378836,2024
+4,Lotus,LEVIATÁN,C0M,Fade,0.44,110,6,12,2,-1,63,80,29,0,1,378836,2024
+4,Lotus,Team Heretics,MiniBoo,Raze,1.56,298,17,10,5,-1,88,204,26,1,2,378836,2024
+4,Lotus,Team Heretics,Boo,Fade,1.52,226,16,7,2,1,88,143,31,1,0,378836,2024
+4,Lotus,Team Heretics,RieNs,Viper,1.39,258,13,8,14,1,88,162,27,3,2,378836,2024
+4,Lotus,Team Heretics,benjyfishy,Killjoy,1.3,190,12,7,3,1,75,135,36,2,1,378836,2024
+4,Lotus,Team Heretics,Wo0t,Omen,1.18,158,9,8,14,-2,88,105,32,1,3,378836,2024
+1,Haven,EDward Gaming,ZmjjKK,Neon,1.43,345,22,15,3,+1,68,215,28,5,4,378829,2024
+1,Haven,EDward Gaming,CHICHOO,Cypher,0.76,187,12,15,2,0,63,116,38,1,1,378829,2024
+1,Haven,EDward Gaming,S1Mon,Breach,0.74,139,10,15,7,0,68,109,29,0,0,378829,2024
+1,Haven,EDward Gaming,Smoggy,Omen,0.62,102,7,13,8,-1,79,57,17,0,1,378829,2024
+1,Haven,EDward Gaming,nobody,Sova,0.52,137,8,15,1,-3,58,93,24,2,5,378829,2024
+1,Haven,Team Heretics,RieNs,Sova,1.52,261,17,10,6,+2,95,205,40,4,2,378829,2024
+1,Haven,Team Heretics,MiniBoo,Neon,1.30,240,17,12,6,+1,79,150,28,3,2,378829,2024
+1,Haven,Team Heretics,benjyfishy,Cypher,1.28,270,19,14,5,+1,74,162,38,3,2,378829,2024
+1,Haven,Team Heretics,Wo0t,Breach,0.98,182,11,12,9,-2,74,125,50,0,2,378829,2024
+1,Haven,Team Heretics,Boo,Omen,0.96,146,9,11,12,+1,79,89,28,1,0,378829,2024
+2,Sunset,EDward Gaming,ZmjjKK,Neon,1.87,378,22,9,7,+3,88,248,24,7,4,378829,2024
+2,Sunset,EDward Gaming,Smoggy,Omen,1.32,188,13,7,6,+1,88,99,43,1,0,378829,2024
+2,Sunset,EDward Gaming,CHICHOO,Cypher,1.32,200,14,7,3,0,76,137,33,0,0,378829,2024
+2,Sunset,EDward Gaming,S1Mon,Kayo,1.16,147,8,8,14,+2,88,98,35,2,0,378829,2024
+2,Sunset,EDward Gaming,nobody,Sova,1.15,215,13,9,7,+1,94,142,50,2,1,378829,2024
+2,Sunset,Team Heretics,Wo0t,Kayo,0.81,186,10,15,3,-1,65,131,28,0,1,378829,2024
+2,Sunset,Team Heretics,Boo,Omen,0.77,108,8,12,2,+1,47,62,33,1,0,378829,2024
+2,Sunset,Team Heretics,RieNs,Sova,0.72,125,7,12,3,-2,59,85,41,0,2,378829,2024
+2,Sunset,Team Heretics,MiniBoo,Raze,0.64,178,10,15,2,-1,47,119,28,2,3,378829,2024
+2,Sunset,Team Heretics,benjyfishy,Cypher,0.27,113,5,16,2,-4,53,88,23,2,6,378829,2024
+3,Lotus,EDward Gaming,CHICHOO,Omen,1.71,339,27,13,7,+1,82,219,41,2,1,378829,2024
+3,Lotus,EDward Gaming,ZmjjKK,Neon,1.19,308,24,17,10,-3,64,175,23,6,9,378829,2024
+3,Lotus,EDward Gaming,nobody,Fade,1.15,146,12,11,10,0,82,99,30,0,0,378829,2024
+3,Lotus,EDward Gaming,Smoggy,Clove,0.90,219,14,18,9,+2,77,143,30,3,1,378829,2024
+3,Lotus,EDward Gaming,S1Mon,Breach,0.90,130,10,13,11,0,82,81,36,0,0,378829,2024
+3,Lotus,Team Heretics,Wo0t,Omen,1.14,223,19,16,7,+2,68,118,41,3,1,378829,2024
+3,Lotus,Team Heretics,benjyfishy,Killjoy,0.95,213,17,16,2,0,59,150,35,2,2,378829,2024
+3,Lotus,Team Heretics,RieNs,Viper,0.87,174,13,17,7,-3,59,115,53,0,3,378829,2024
+3,Lotus,Team Heretics,MiniBoo,Raze,0.65,151,11,18,4,-1,59,101,25,3,4,378829,2024
+3,Lotus,Team Heretics,Boo,Fade,0.57,161,11,20,6,+2,59,106,29,3,1,378829,2024
+4,Bind,EDward Gaming,ZmjjKK,Raze,1.27,278,24,18,1,-1,71,180,19,4,5,378829,2024
+4,Bind,EDward Gaming,CHICHOO,Viper,1.02,228,19,19,3,-1,79,164,38,1,2,378829,2024
+4,Bind,EDward Gaming,S1Mon,Fade,1.00,176,15,17,7,+1,79,123,34,3,2,378829,2024
+4,Bind,EDward Gaming,Smoggy,Brimstone,0.97,179,16,17,11,-2,83,127,42,0,2,378829,2024
+4,Bind,EDward Gaming,nobody,Gekko,0.62,155,12,20,10,-1,79,105,19,2,3,378829,2024
+4,Bind,Team Heretics,MiniBoo,Raze,1.36,261,23,16,3,0,88,157,28,2,2,378829,2024
+4,Bind,Team Heretics,Boo,Brimstone,1.03,196,20,17,6,0,79,109,29,2,2,378829,2024
+4,Bind,Team Heretics,RieNs,Gekko,0.99,177,16,17,8,+1,83,101,33,3,2,378829,2024
+4,Bind,Team Heretics,Wo0t,Fade,0.99,236,18,19,14,+3,88,162,24,3,0,378829,2024
+4,Bind,Team Heretics,benjyfishy,Viper,0.82,180,14,17,9,0,71,118,37,4,4,378829,2024
+5,Abyss,EDward Gaming,Smoggy,Omen,1.67,253,21,8,10,0,91,175,28,1,1,378829,2024
+5,Abyss,EDward Gaming,ZmjjKK,Jett,1.31,238,19,13,3,0,68,161,21,4,4,378829,2024
+5,Abyss,EDward Gaming,S1Mon,Kayo,1.26,213,17,13,9,+2,82,151,23,3,1,378829,2024
+5,Abyss,EDward Gaming,nobody,Sova,0.91,178,14,14,5,+3,82,108,39,3,0,378829,2024
+5,Abyss,EDward Gaming,CHICHOO,Astra,0.82,161,13,15,9,-1,77,105,44,2,3,378829,2024
+5,Abyss,Team Heretics,benjyfishy,Cypher,1.11,224,17,16,6,+1,73,148,60,5,4,378829,2024
+5,Abyss,Team Heretics,Wo0t,Gekko,0.95,206,15,18,6,-2,73,144,39,1,3,378829,2024
+5,Abyss,Team Heretics,RieNs,Sova,0.79,173,11,17,5,0,82,116,37,2,2,378829,2024
+5,Abyss,Team Heretics,MiniBoo,Jett,0.55,143,10,19,3,-3,50,93,21,1,4,378829,2024
+5,Abyss,Team Heretics,Boo,Astra,0.46,131,10,18,5,0,68,78,22,0,0,378829,2024
